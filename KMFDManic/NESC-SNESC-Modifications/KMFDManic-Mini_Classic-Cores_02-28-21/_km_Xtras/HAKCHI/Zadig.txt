@@ -1,5 +1,0 @@
-2. Click on Option and Select List All Devices
-3. Next plug in your NES Classic Mini
-4. Zadig should auto detect the device
-5. Check the USB ID shows as 1F3A EFE8 (example) 
-6. Then click Install Driver

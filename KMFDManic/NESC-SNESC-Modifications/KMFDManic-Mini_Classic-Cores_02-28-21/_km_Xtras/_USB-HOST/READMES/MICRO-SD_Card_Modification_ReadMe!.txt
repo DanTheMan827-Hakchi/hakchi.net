@@ -1,1 +1,0 @@
-https://www.reddit.com/r/miniSNESmods/comments/7hdw61/guide_release_how_to_add_a_microsd_card_to_the/

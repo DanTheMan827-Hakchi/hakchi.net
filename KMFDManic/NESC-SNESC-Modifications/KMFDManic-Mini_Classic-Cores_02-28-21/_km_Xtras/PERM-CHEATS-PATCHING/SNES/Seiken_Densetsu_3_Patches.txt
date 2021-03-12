@@ -1,7 +1,0 @@
-One patch allows 3 Player Mode Activate, just like in Secret of Mana. (Also works on Trials of Mana!)
-
-The other translates into English, if you so decide to not run the newer English Trials of Mana!
-
-KM:)
-
-Thanks to those who have worked on the patches!  Lunar IPS can be used to apply them to the games!
