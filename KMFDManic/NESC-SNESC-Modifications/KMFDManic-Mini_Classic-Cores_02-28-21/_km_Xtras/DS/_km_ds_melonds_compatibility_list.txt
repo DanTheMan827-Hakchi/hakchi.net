@@ -1,0 +1,98 @@
+With feedback from the Community, we will amass a great list of working/non-working games!
+
+Testing Credits thus far: kaknow & many melonds End Users!  CTRL+F in this document for Playable to get User End test
+results for games that "should" be fine on this Core! Looking forward to more feedback to boost this list and have as many
+games known to be playable as possible for all of you Guys and Gals!  Thank You!
+
+Note: Some Test Results may vary, being that we are running these on the Mini NES/SNES!  They were originally tested
+on PC!  This list will be Updated as games are officially tested on the Minis!
+
+Sincerely, KMFDManic!!! 
+
+Personal thanks to naknow for compiling this list:  Sorry it is not in alphabetical order!  I will fix this when I can:)
+
+Sonic Rush - Playable. Didn't notice any problems except the framerate doesn't seem 100% stable. Part of that is the lack of vsync though. It's too early to really rate performance/smoothness without vsync I think. There needs to be a 'gap' setting between the 2 screens or they don't line up correctly. 
+Meteos - Playable. 
+Megaman ZX - Now works. 
+Metroid Prime Pinball - Playable. 
+DaGeDar - Playable. 
+Bleach - The Blade of Fate - Playable. 
+Megaman ZX Advent - Also playable. 
+Miami Nights - 3D works fine in this game. 
+Myst - Playable, though glitches can be seen when using the magnifying glass. 
+Orcs & Elves - Yes, you heard me right, it is playable. 
+Pokémon Conquest - Save data problem 
+Sonic & Sega All Stars Racing - Works fine, for the most part. No glitches seen in this game 
+Kirby Canvas Curse - Playable 
+Trace Memory - Playable. 
+Front Mission 1 - Playable. Shows 50 fps, most other games show near 60fps. Can't verify if performance is actually bad because the game doesn't really have fast scrolling. 
+Zelda Phantom Hourglass - Playable 
+Castlevania Dawn of Sorrow - Playable. Text corruption during intro. Runs very slow (30-40fps) 
+101 in 1 - Explosive Megamix: Playable. All games seem to run fine. 
+Daniel X The Ultimate Power: Works well, but some of the character shadows are a bit messed up. 
+Indiana Jones and The Staff of Kings: Appears to work flawlessly. 
+Super Scribblenauts: Appears to work flawlessly. 
+Lego Harry Potter Years 1-4: None of the text on the main menu appears, and the in-game menu has various graphical issues. Otherwise, it appears to be playable. 
+Lego Harry Potter Years 5-7: Minor graphical issues, but works well otherwise. 
+Nanashi no Game ME: Playable. There's some missing graphics and without a flip ability, playing the walking parts sideways is a pain. 
+Super Scribblenauts: Doesn't work. WSOD. 
+Cooking Mama 3 - Playable. 
+Sid Meier's Civilization Revolution DS - Stuck in initializing backup memory. 
+Tony Hawk's Motion: Now this one is weird. It doesn't work too, but usually i get a WSOD if it doesn't work. I also usually get 60fps to 45fps on all games. However,
+Tony Hawk's Motion is dead-on 35fps. It also dies on a black screen and shows a HUGE mess of unknown BIO and CPU stuff, among other things. Might be to do with no Motion Pack installed with it, but it's definitely not working either way. 
+Twilight Syndrome: Outside of a small few graphical glitches, this is playable. 
+Are You Smarter than a 5th Grader (US) - Too Slow, Unplayable. 
+Bejeweled 3 (US) - White Screen 
+Cars (US) - Black screen. 
+Cars 2 - Save data problem 
+Ninjatown - Playable 
+Pac-Man World 3 - Imperfect. There are issues with terrain and view distance. 
+Jump! Ultimate Stars (JP) - The FMV opening definitely slowed down the emulation, In-Game, it's playable. 
+Elite Beat Agents (US) - Menus are smooth, but gameplay slow. Without any sound, this game is imperfect. 
+Taiko no Tatsujin DS - Touch de Dokodon! (JP) - Menus Slow, In-Game runs okay-ish. Same status as Elite Beat Agents. 
+Civilization Revolution DS - Stuck in initializing backup memory 
+Beat City: Playable. Graphics are better than DeSmuMe. A black, diagonal line shows up between scene transitions. 
+Commando - Steel Disaster - Playable. 
+Big Brain Academy: Works well, but the menu and timer countdown seem to be a bit slow. 
+Custom Robo Arena: Works well, but the startup is definently slower. 
+Daniel X The Ultimate Power: White screen. 
+Indiana Jones and The Staff of Kings: Says "The data could not be written. Turn power OFF and remove and reinsert the DS Card." at strartup. 
+Advance Wars Dual Strike - Playable. Poor framerate during overhead map sections. Battle sections have good framerate. 
+Metroid Prime Hunters - Playable. 
+Yoshi's Island DS - Playable 
+Castlevania Portrait of Ruin - Playable. Framerate seems very dependent on background content (simple backgrounds = 60fps) 
+Diddy Kong Racing - Playable 
+Hotel Dusk Room 215: Playable. Obviously needs screen rotation to play comfortably. Weird green flashing during intro. 
+Lunar Knights - Playable. Overhead map doesn't look correct, is lacking background. Dialogs in town lack character sprites. Actual isometric gameplay looks and runs ok though.
+Kirby Super Star Ultra (US): Playable. The framerate is very low (average around 10 frames per second) during the startup, (where the game checks for save data), but other than that, the game runs relatively fine. 
+PANG - Magical Michael (EU) - Playable. 
+Super Mario 64 DS (US): Playable. There are a few graphical issues (i.e. shadows, textboxes, etc.), but other than that, the game runs at around 45 fps. 
+Clubhouse Games (US) - Playable, but slow. (15fps menus, 20fps ingame) 
+Contact (EU) - Somewhat playable. It's slow, but looks like it can be playable (15fps all round) 
+SNK vs. Capcom - Card Fighters DS - Playable. 
+C.O.P. The Recruit - Black screen in-game. the mini map moves around though 
+NAMCO Museum DS - Playable. 
+Guilty Gear Dust Strikers (US) - Playable. (40fps menus, 30fps ingame) 
+Space Invaders Revolution (US) - Playable on both versions. (30fps menus, 30fps Classic ver., 38fps New Age ver.) 
+Tetris DS: The game seems to run flawlessly. Almost a constant 60fps, and I haven't seen any graphical errors whatsoever. 
+Picross 3D: Playable. At first, the game seems to run flawlessly, until you get into the actual game. There are models that should normally be white, or another colour, however, they appear transparent in melonDS. It runs almost at a constant 60fps like Tetris DS, so, thumbs up for that. However, anti-aliasing, and sprites do not work either. 
+Soul Bubbles: Unplayable. The game does not display any sort of 3D model, texture, or sprite. If you click where the bottom screen should be displayed, the game's framerate drops from a near constant 60fps, to around 30fps. 
+Phoenix Wright: Ace Attorney: Flawless. I see no points of failure. The game runs at an almost solid 60fps, all the time. No graphical errors, nothing. Even the intro to Case 5 has no flaws, and I'm certain it uses 3d models. 
+Phoenix Wright: Ace Attorney: Justice for All: Flawless. All the same as PW:AA, this game has no graphical errors, and stays at a near 60fps all the time. 
+Phoenix Wright: Ace Attorney: Trials & Tribulations: Once again, flawless. Like the previous two games, there are no graphical errors, and is at a near 60fps all the time. 
+Apollo Justice: Ace Attorney: Yet again, flawless. Everything is the exact same in terms of compatibility, as the previous three games. 
+Ace Attorney Investigations: Miles Edgeworth: ANOTHER flawless. Nothing wrong. Almost solid 60fps at all times, no graphical errors, nothin'. 
+Johnny Bravo in The Hukka-Mega-Mighty-Ultra-Extreme Date-O-Rama! - Playable. 
+Chessmaster The Art of Learning: Seems to work flawlessly. 
+Lego Batman The Videogame: Playable. The menu runs at about 20 FPS, and the game runs at about 30 FPS. There are numerous graphical issues. 
+Lego Harry Potter Years 1-4: WSOD. 
+Lego Harry Potter Years 5-7: WSOD. 
+Lego Star Wars The Complete Saga: Playable. The menu runs at about 20 FPS, and the game runs at about 30 FPS. There are numerous graphical issues. 
+Ketsui - Death Label (JP): Data could not be written. 
+N+ - Playable, even though it's slow. 
+Superman Returns - In-game, slow, but it works. Horrible draw distance btw. 
+Style Savvy - Stuck on Nintendo logo. 
+Syberia - Black Screen. 
+TouhouDS - libfat failure. Emulator doesn't support DLDI. 
+Ultimate Mortal Kombat - In-game with lag all around for both modes. 
+Zoo Keeper - Perfect emulation all around. 

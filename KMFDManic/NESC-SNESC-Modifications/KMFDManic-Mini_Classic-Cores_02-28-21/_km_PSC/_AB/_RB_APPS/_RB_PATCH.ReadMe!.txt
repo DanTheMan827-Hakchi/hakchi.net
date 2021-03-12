@@ -1,0 +1,27 @@
+Thanks to Ajembo and the DevilutionX Team for all their dedication to the Open Source Implementation of Diablo, 
+as well as all of the original people behind the initial project!  
+
+https://github.com/diasurgical/devilutionX/
+
+Personal thanks to genderbent for his amazing contributions to RetroBoot!
+
+Thanks bslenul and madmonkey for helping on MD/SNES/NES side of things; notv37 on the PSC front!
+
+Lastly, thanks to gameseeker86 for reaching out to Ajembo and getting things started!
+
+This is a nice method of installing APPS for usage with my Xtreme Injector Set-Up! 
+
+And, thank all who have worked on the original Games that these boot!
+
+1. Extract to main of Flash/Hard Drive
+
+2. On Boot, RetroBoot Installer will Activate!
+
+3. You will need to provide the legal files for whichever games, of which we 
+cannot share!
+
+IE: For DevilutionX, you will need to copy diabdat.mpq from Official Diablo (GOG Version Works!)
+
+More will be added in the future!
+
+KMFDManic!

@@ -1,0 +1,15 @@
+2nd joystick supported
+Increased virtual keyboard size
+Removed GUI
+New default controller mappings with mouse speed up/down functions
+
+L2 = show/hide status
+R2 = UNUSED
+L = mouse speed down (min 1)
+R = mouse speed up (max 6)
+SEL = toggle mouse/joy mode
+STR = show/hide virtual keyboard (vkbd)
+A = joystick fire 1/mouse 1/vkbd key pressed
+B = joystick fire 2/mouse 2
+X = UNUSED
+Y = UNUSED

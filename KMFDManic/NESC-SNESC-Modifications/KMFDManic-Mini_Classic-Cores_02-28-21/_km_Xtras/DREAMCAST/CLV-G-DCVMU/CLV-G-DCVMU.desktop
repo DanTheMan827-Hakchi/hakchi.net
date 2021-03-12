@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/reicast /var/games/CLV-G-DCVMU/VMU.cdi
+Path=/var/saves/CLV-G-DCVMU
+Name=DC: VMU
+Icon=/var/games/CLV-G-DCVMU/CLV-G-DCVMU.png
+
+[X-CLOVER Game]
+Code=CLV-G-DCVMU
+TestID=0
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1900-01-01
+SaveCount=0
+SortRawTitle=dc: vmu
+SortRawPublisher=UNKNOWN
+Copyright=hakchi2 CE ©2018

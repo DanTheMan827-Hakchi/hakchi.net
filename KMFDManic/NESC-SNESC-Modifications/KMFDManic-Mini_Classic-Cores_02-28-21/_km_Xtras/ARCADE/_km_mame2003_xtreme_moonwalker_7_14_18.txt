@@ -1,0 +1,97 @@
+NOTE:) samples can be installed via km_mame_custom_samples.hmod
+
+Thanks to the hard work and dedication and patience of gpstar!,
+we now have support in MAME 2003 Xtreme for the ability to run the Michael Jackson's 
+Moonwalker Arcade with a combination of the Real Songs and Remixed Versions!
+gpstar has done an exceptional job!
+
+Sincerely, KMFDManic!!!  (One can only hope for more of these truly astounding Custom OST Mods for MAME 2003, in the future!:)
+
+gpstar Notes:)
+
+The MAME sample system was originally intended to playback small 8bit unsigned or 16bit signed uncompressed audio in WAV file containers for sound effects in old arcade games that could not be emulated properly. How the system works is upon loading a game, all the defined sample files if existed will preload into the system memory. This is ok for small files that are only a few kilobytes each, which allows for instant playback of the samples when called upon by the MAME core. However with the custom OST application, you start getting large files in the 10's of megabytes or more each depending on the quality and length. For a PC with many gigabytes of memory this is not a issue, however with low memory devices like the SNES/NES mini it can be a challenge as the system only has 256MB of system memory. After extensive testing, trying to load more than 160MB of sample data into the system memory for the SNES/NES mini will cause the MAME core to crash after running out of memory. The system has been reworked so any sample up to 10MB will pre load into the system memory, and samples larger than 10MB in will only load into the system memory when requested during playback. After playback of the sample has stopped, if the file is greater than 10MB will be removed from the system memory. Why not have all samples load into memory on demand? When you load a sample into memory on demand and free the memory after, you will suffer small pauses in the game while the SNES/NES mini has to open the file, decode and allocate memory before playback. For old arcade games which this system was intended for sound playback as sound effects, you would see small stutters and pauses while the SNES/NES mini loads the file if nothing was pre loaded into memory. For example, imagine playing Super Mario Bros and everytime Mario jumps, the sound effect for his jumping has to be loaded from a sample file, decoded then allocate memory and play it, then free the memory, which creates a half second pause each time he jumps. With large samples for custom OST playback, having a 1 to 2 second load for level music is generally acceptable. 
+
+Now for the samples format, as of this core update 16bit FLAC support has been added. The MAME2003 sample system now supports the following file formats:
+
+8bit unsigned mono uncompressed PCM WAV
+16bit signed mono uncompressed PCM WAV
+16bit mono FLAC
+
+From extensive testing, the smaller the file is, the faster it will load. So a 8bit unsigned WAV's will load the fastest, and be the smallest. 16bit FLAC's are next in size then 16bit WAV's are the largest files. 16bit FLAC and WAV's have the same sound qualifty, but the FLAC's will save you quite a bit of storage space (see my comparison below for examples).
+
+FLAC's take the longest to load, because they need to be decoded into a PCM stream before the system can read it. Samples can be loaded from either a .ZIP file or a folder of the same name in the sample/ folder. From my testing, ZIP files take longer to load as the file has to be decoded out of the ZIP by the MAME file system.
+
+So the fastest setup with the smallest files are 8bit WAV's in the sample folder not zipped. (MAME -> FILE SYSTEM -> LOAD INTO MEMORY)
+FLAC's in a zip file take the longest to load (MAME -> FILE SYSTEM -> DECODE FLAC FROM ZIP -> DECODE FLAC -> LOAD INTO MEMORY)
+
+The sample system for custom OST games takes either 1 or 2 mono sound files, and mixes them into the proper channels.
+
+Samples that end wih the extension -01 is the left channel, -02 is the right channel. If either a -01 or a -02 is missing, then the same sample will be mixed into both channels for a mono effect. If both files are missing, the system will default to the original sound from the game. For example, if you just have sample-01.wav and missing sample-02.wav, then sample-01.wav will be mixed into both the left and right sound channel.
+
+Stereo Mix: To create the -01 and -02 mono files, the easiest way is to open your source music file in a Audacity audio editor, you split the stereo channel into it's LEFT and RIGHT channels. DELETE the right channel, set the remaining LEFT channel as MONO, then SAVE to the desired file format as described earlier, example: sample-01.wav (or flac) since it is going to be the left channel. Then repeat these steps again but isolate just the right channel only and set it to MONO and save as sample-02.wav since it will be the right channel. I call this the stereo mix.
+
+Mono Mix: If you really want to save space and use a single file to be mixed into both channels and get a mono effect, then you open your music file in Audacity, you take your STEREO track, mix it into a MONO track, then SAVE as the desired format as mentioned above. For example, sample-01.wav (or flac). Since sample-02.wav (or flac) will be missing from your sample set, MAME will playback this sample-01.wav (or flac) into both the LEFT and RIGHT channels. I call this the mono mix.
+
+For audiophiles, they will probably want 16BIT Mono WAV files with both the -01 and -02 for a full stereo effect (the stereo mix)
+For people looking to use the least amount of space, then a 8bit unsigned WAV file with just a -01 extension will use the least amount of space, as the single mono WAV file will get mixed into both the left and right channel, then zip all the samples into a zip file. (the mono mix)
+Audiophilies looking to save space but have the same sound quality as 16BIT wav, will want to use the 16bit FLAC's. (the stereo mix but in flac format)
+
+To give you a example of sample sizes of a moonwalker sample set.
+8 bit WAV mono mix (folder with files) -> 90.6MB
+8 bit WAV mono mix (stand alone zip) -> 71.2MB
+8 bit WAV stereo mix (folder with files) -> 181.3MB
+8 bit WAV stereo mix (stand alone zip) -> 122.3MB
+16 bit WAV mono mix (folder with files) -> 181.3MB
+16 bit WAV mono mix (stand alone zip) -> 171.9MB
+16 bit WAV stereo mix (folder with files) -> 362.5MB
+16 bit WAV stereo mix (stand alone zip) -> 341.1MB
+16 bit FLAC mono mix (folder with files) -> 127.7MB
+16 bit FLAC mono mix (stand alone zip) -> 127.3MB
+16 bit FLAC stereo mix (folder with files) -> 235.5MB
+16 bit FLAC stereo mix (stand alone zip) -> 235.5MB
+
+the samples have to be located in the following folder: 
+
+libretro/system/mame2003/samples
+
+Samples can either be in a folder with the same name as the game rom or zipped into a zip file with the same name as the rom. For example, for a filename for the game rom of moonwlkb.zip, the samples files can either be in the following location:
+
+in a folder:
+libretro/system/mame2003/samples/moonwlkb/
+
+or
+
+contained in a zip file:
+libretro/system/mame2003/samples/moonwlkb.zip
+
+If you are not using USB Host, you will probably only be able to fit 1 OST sample set onto your SNES/NES internal memory if you have nothing else installed. You will need to FTP into your SNES/NES mini and upload the desired sample files into the libretro/system/mame2003/ folder as mentioned above. It is however recommended to use this with USB Host with the External Retroarch hmod installed. With the External Retroarch hmod installed, you will find the libretro folder on your external storage device you are using in the hakchi folder. So usb device->hakchi/libretro/system/mame2003/samples/
+
+Regarding the volume of the samples, I have had to INCREASE substantially the volume level of each sample file. If you find your samples are not loud enough, then go back and edit them to increase the volume in the files.
+
+Keep in mind, if your samples are not playing back in the game, they are either incorrectly named, not in the proper folder, or in the incorrect file format. If the mame2003 core crashes and boots you back to the game selection screen, you most likely ran out of system memory because your samples are too large. For example, if you have sample file that is 20-30 minutes long and is over 150MB for just a single sample-01.wav or sample-01.flac, the snes/nes mini will crash. If you generally keep your sample files below 100MB per file the memory allocation / deallocation feature should keep things safe. Generally, most samples if 16 bit will generally be in the 20-30mb range each with 8bit samples much smaller, so you probably wont run into this problem. Also note, if you include both FLAC and WAV's into your sample set of the same names, the system will priority FLAC first, then WAV second. It is possible to mix and match, some FLAC's and some WAV's.
+
+Now for Moonwalker, the sample names are as follows:
+
+Stage 1 and 5
+bad-01.wav (or flac)
+bad-02.wav (or flac)
+
+Stage 2
+smoothcriminal-01.wav (or flac)
+smoothcriminal-02.wav (or flac)	
+
+Stage 3
+beatit-01.wav (or flac)
+beatit-02.wav (or flac)
+
+Stage 4
+thriller-01.wav (or flac)
+thriller-02.wav (or flac)
+
+Ending credits
+billiejean-01.wav (or flac)
+billiejean-02.wav (or flac)
+
+Title screen (MJ walks and spins feet, then title screen)
+title-01.wav (or flac)
+title-02.wav (or flac)

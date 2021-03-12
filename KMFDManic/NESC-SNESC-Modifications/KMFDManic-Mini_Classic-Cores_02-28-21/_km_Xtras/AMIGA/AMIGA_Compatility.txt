@@ -1,0 +1,94 @@
+Personal thanks to AntiFly (Thank You!) for running some tests with P-UAE/P-UAE Xtreme.  Note: Due to some variables,
+those that do not work may require retesting to ensure whether or not adjustments can be made to properly run them:)
+
+/bin/puae (for single player games)
+/bin/puae-xtreme (for two player games)
+
+###############################################
+Working Amiga Games
+All Games on .HDF method directly imported to .HDF (without first subdir and info file).
+###############################################
+@PUAE EMULATOR
+###############################################
+Agony (works but slow)
+AlienBreed (2 Player game)
+AlienBreed Special Edition (2 Player game)
+Apidya
+BattleSquadron (2 Player game)
+Benefactor
+Deliverance
+DisposableHero
+Flashback
+Flood
+FlyHarder
+Frenetic
+Indiana Jones and the Fate of Atlantis (Ingame Save/Load works)
+IndianaJonesTTOD (Ingame Save/Load works)
+LamborghiniAC
+Odyssey
+Pang
+ProjectX
+ProjectXSE
+Silkworm
+Speedball
+StarRay
+SWIV
+Turrican
+Turrican2
+Turrican3
+Xenon2
+XOUT
+YoJoe (slow with PUAE)
+ZackMcKracken (Ingame Save/Load works)
+Zout
+
+---------PUAE PIN IN FILENAME -------------
+Working but all slow....not good playable!
+AlienBreed2(AGA)
+AlienBreedTA(A1200)
+ApanoSinDE(A1200)
+Banshee(A1200)
+ChaosEngine(A1200)
+ChaosEngine2(A1200)
+Fireforce(A1200)
+GundbeeF99(A1200)
+Historyine(A1200)
+PiratesGold(A1200)
+Roadkill(A1200)
+RuffNTumble(A1200)
+SlamTilt(A1200)
+SuperStardust(A1200)
+Uridium2(A1200)
+YoJoe(A1200)
+Zool(AGA)
+
+--------- NOT WORKING ---------
+AlienBreedTA (PUAE) illegal exception
+Apocalypse (PUAE) lack of controlls
+ApanoSinDE (PUAE)
+Datastorm (PUAE) (lack of controls)
+RocketRanger (PUAE) (lack of controls)
+Speedball2 (PUAE) (lack of controls)
+Superfog (PUAE) (plays intro and falls back to amiga shell)
+BattleIsle(A1200) (PUAE) (data disks missing or not supported)
+BattleIsleDD(A1200) (PUAE) (data disks missing or not supported)
+SensibleWoSWC98(A1200) (PUAE) (game loads, but controls are weird)
+Lionheart (PUAE) (very slow, unplayable)
+
+###############################################
+@UE4ARM EMULATOR
+###############################################
+Used same .HDF files with created .uae file for USB-Host
+Agony (working)
+AlienBreed2 (working, fast)
+BattleIsle+DataDisks (DH1 Error on load)
+Banshee (working fast, missing gfx menu on left side)
+ApanoSinDE (working)
+Fireforce (lack of controls)
+PiratesGold (working, save not working cause .HDF could not be created with 0 Byte SaveGameDummy from .adf)
+Roadkill (drinving works, fire missles etc. not, lack of controls)
+RuffNTumble (working)
+SlamTilt (slave has not enough chip memory)
+Uridium2 (working)
+YoJoe (working)
+Zool (working)

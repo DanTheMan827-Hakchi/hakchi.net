@@ -1,0 +1,18 @@
+3dSen is an amazing PC Emulator by Studio Geod that currently supports roughly 70 games, in mindblowing 3D!
+
+I will personally keep tabs on this, as well as analyze how the various game assets work, and
+update this ReadMe as I post future Updates!  As of right now, the first results are in:
+
+- Batman Profile - "Zombie Hunter" has a decent pseudo 3D Effect, complete with shadows!
+
+- Castlevania Profile - "Castlevania Extreme" shares same game assets as Castlevania, as it is a hack!
+So, in that respect, it is nearly as full blown 3D as one could expect, without being officially
+supported as a Profile!
+
+I will update more as I test further.  This is so on par with the times I was testing Phantasy
+Star Online Codebreaker Additions I was working on, as well as the amazing Randomized Monster
+Generations by putting real CDs into the PS1, when playing Monster Rancher!  Fun Stuff!  
+
+Stay Tuned for more magic, courtesy of Studio Geod, as well as Exploits myself and others discover!
+
+KMFDManic!:)

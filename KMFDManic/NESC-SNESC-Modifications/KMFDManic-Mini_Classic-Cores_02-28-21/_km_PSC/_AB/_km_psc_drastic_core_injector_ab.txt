@@ -1,0 +1,14 @@
+We now have amazing DraStic running on the PSC!  Personal thanks to the efforts of
+MMC and genderbent...and, of course, the original author Exophase...and, ANYONE who
+has ever worked on the emulator!  I, KMFDManic, updated the cheats to more Xtreme proportions:)
+I will optimize things more in future Updates!
+
+**All of the following go to "root" of the flash/hard drive you are planning on using!**
+
+1. Install AutoBleem Modification
+2. Install _km_psc_xtreme_core_injector_autobleem (overwrite anything it asks!)
+3. Install _km_psc_drastic_core_injector_autobleem (if you want DraStic!)
+
+Upon first boot DraStic will install, then reboot:)  It will be accessible via Load Core/Games!
+
+Sincerely, KMFDManic:)

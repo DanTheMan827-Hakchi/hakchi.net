@@ -1,0 +1,578 @@
+With feedback from the Community, we will amass a great list of working/non-working games!
+
+Testing Credits thus far: Butter_Spill, Rockmangames & Myself:)  CTRL+F in this document for fully playable to get Rockmangames'
+results for games that "should" be fine on this Core! Looking forward to more feedback to boost this list and have as many
+games known to be playable as possible for all of you Guys and Gals!  Thank You!
+
+Note: Some Rockmangames' Test Results may vary, being that we are running these on the Mini NES/SNES!  They were originally tested
+on PC!  But, the top-most Test Results are ones that were officially tested to actually load and/or be fully playable on the Minis!
+
+Sincerely, KMFDManic!!!  
+
+DeSmuNE 2015: (Testing Credits: Butter_Spill & Myself.  If a game doesn't initially work, we will still attempt to retest it under
+different conditions, in hopes that it may potentially still work!   We will also take into account which games are "too slow", or 
+"fully playable", other noteworthy things to mention, and so on! So, this list will be Updated in future releases!!!) 
+
+Working: (Either fully playable and/or load!  Overall game speed varies, case by case!)
+
+Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!!
+Advance Wars: Dual Strike
+Aliens: Infestation
+Bangai-O Spirits
+Barnyard Blast
+Bejeweled 3
+Big Brain Academy
+Brain Age
+Bomberman
+Clubhouse Games
+Cooking Mama
+Crosswords DS
+Dig Dug: Digging Strike
+Doctor Who: Evacuation Earth
+Dungeon of Windaria (English Patched)
+Electroplankton
+Feel the Magic
+Final Fantasy Tactics A2: Grimoire of the Rift
+Franklin's Great Adventure
+Game & Watch Collection 1
+Game & Watch Collection 2
+Ivy the Kiwi
+Ketsui: Death Label
+Legend of Kate 2
+Little Red Riding Hood BBQ
+Lunar: Dragon Song
+Metroid Prime Pinball
+Might & Magic: Clash of Heroes
+N+
+Nanostray
+Nanostray 2
+Neko Neko Bakery
+New Super Mario Bros.
+New Zealand Story Evolution
+Ninjatown
+Nintendogs: Best Friends
+Pac Pix
+Pang: Magical Michael
+Phoenix Wright: Ace Attorney: Justice for All
+Picross DS
+Phoenix Wright: Trials and Tribulations
+Pokemon Ranger
+Pokemon Trozei!
+Polarium
+Retro Atari Classics
+Retro Game Challenge
+River City Super Sports Challenge
+Scurge: Hive
+Soul Bubbles
+Space Invaders Extreme
+Space Invaders Extreme 2
+Star Wars Episode III: Revenge of the Sith
+Teenage Mutant Ninja Turtles 3: Mutant Nightmare
+Tetris DS
+Tingle's Balloon Fight
+Touch Detective
+Touch the Dead
+Trace Memory
+Trauma Center: Under the Knife
+Warhawk
+WarioWare: Touched
+Yoshi's Island DS
+Zoo Keeper
+
+Non-Working: (May be bad rom set.  So, these results are NOT ironclad!)
+
+All Kamen Rider: Rider Generation
+Apollo Justice
+Batman: The Brave and the Bold
+Bleach
+ALL Castlevanias
+Contact
+Donkey Kong Climber 
+Dragon Quest Heroes: Rocket Slime
+Elebits
+Ghost Trick
+Freshly Picked: Tingle's Rosy Rupeeland
+Henry Hatsworth in the Puzzling Adventure
+Hotel Dusk
+Intellivision Lives!
+Jake Hunter
+Jump Stars
+Kirby Super Star Ultra
+Lupin
+Kirby Mass Attack
+Legendary Starfy 
+Mario and Luigi: Bowser's Inside Story
+Mario vs. DK2: March of the Slimes
+Meteos
+Pokemon: Black and White
+Pokemon: HeartGold & SoulSilver
+Pokemon: Mystery Dungeon
+Pokemon Dash
+Professor Layton and the Curious Village
+River King
+Rune Factory
+Scribblenauts
+Sonic Rush
+Super Robot Taisen
+Taiko: Drum Master
+Tamagotchi Connection: Corner Shop
+Wario: Master of Disguise
+
+Personal thanks to Rockmangames for compiling this list!
+
+NDS DEMO roms
+
+Demo - Advance Wars - Dual Strike Wireless Multiboot Demo (U) - Fully playable but in the menu to select is invisible. 
+Demo - Famicom Wars DS Wireless Multiboot Demo (J) - Fully playable but in the menu to select is invisible. 
+Demo - Guru Guru Nagetto Download Demo (J) - playable but black screen on the top of the screen and on the bottom is fine 
+Demo - Jump Super Stars Download Demo (J) - Fully playable 
+Demo - Meteos Download Demo (J) - playable but invisible on the bottom of the screen 
+Demo - Metroid Prime Hunters - First Hunt (E) - black screen 
+Demo - Ping Pals Wireless Multiboot Demo (U) - wireless is require to play 
+Demo - Pokemon Torouze (J) - Fully playable but cannot seem to control anything 
+Demo - WarioWare - Touched! (E) - Fully playable 
+Demo - Zelda - Twilight Princess Preview Trailer (U) - Intro is fine but can't view on the top of the black screen 
+Demo - Zelda Preview Trailer E3 Download Demo (U) - black screen 
+Demo - Feel the Magic (Kiosk) (U) - Fully playable 
+Demo - kirby Canvas Course (kiosk) - Fully playable but raindow line is missing 
+Demo - MARIO AND LUIGI PARTNERS IN TIME (Kiosk) (E) - Fully playable but a few gfx errors 
+Demo - Mario Kart DS (Kiosk) (U) - black screen 
+Demo - Nintendogs (Kiosk) (E) - black screen 
+Demo - Nintendogs (Kiosk) - black screen 
+Demo - Nintendogs Relay Download (Kiosk) (J) - black screen 
+Demo - PAC-PIX (Kiosk) (U) - black screen 
+Demo - Project Rub (Kiosk) (E) - Fully playable 
+Demo - Super Mario 64 DS (Kiosk) (U) - Fully playable but you have to figure out where to touch and you are able to go to mini games without a graphic errors! 
+Demo - WarioWare Touched (Kiosk) (U) - Fully playable 
+Demo - Yoshi Touch and Go (Kiosk) (E) - Showing Yoshi with baby mario sits on Yoshi's back 
+
+NDS ROMS compatibility list
+
+0001 - Electroplankton (J) - flash flicker very badly but on the bottom showing INTERMISSION logo then thats it. 
+0002 - Need For Speed - Underground 2 (U) - playable but on the top of the screen in the background is black and you cannot see your car running. 
+0003 - Yoshi Touch & Go (U) - showing Nintendo logo 
+0004 - Feel the Magic - XY-XX (U) - Fully playable and a few gfx errors and slow a little bit 
+0005 - WarioWare Touched! (U) - after it asked you which hands ? Right or Left? Click Yes or No then click OK but freezed. 
+0006 - Polarium (U) - Fully playable 
+0007 - Puyo Puyo Fever (J) - Fully playable (some gfx errors when the screen go to the next screen but everything is perfectly.) 
+0008 - Pac-Pix (U) - black screen 
+0009 - Space Invaders DS (J) - playable but you cannot see anything on the top of the screen where you are 
+0010 - Cool 104 Joker & Setline (J) - Fully playable 
+0011 - Guru Guru Nagetto (J) - Fully playable but slow a little bit 
+0012 - Asphalt - Urban GT (U) - black screen 
+0013 - Yoshi Touch & Go (E) - flash then black screen 
+0014 - Pac-Pix (E) - black screen 
+0015 - Catch! Touch! Yoshi! (J) - Nintendo logo but on the bottom is in the japan language that I do not understand but thats it 
+0016 - Meteos (J) - Fully playable but invisible on the bottom 
+0017 - Ridge Racer DS (U) - Nice intro and menu. After you register for your name, the message said "error unable to create" 
+0018 - WarioWare - Touched! (E) - after it asked you which hands ? Right or Left? Click Yes or No then click OK but freezed. 
+0019 - Mr. Driller - Drill Spirits (U) - Fully playable 
+0020 - Chokkan Hitofude (J) - Fully playable 
+0021 - Project Rub (E) - Fully playable 
+0022 - Super Mario 64 DS (E) - playable if you figure out where to use touchscreen on the botton of the screen with badly scramble 
+0023 - Star Wars Episode III - Revenge Of The Sith (E) - Fully playable 
+0024 - Robots (E) - black screen 
+0025 - Super Mario 64 DS (J) - playable if you figure out where to use touchscreen on the botton of the screen with badly scramble 
+0026 - Pokemon Dash (U) - Nice intro but on the bottom is the black screen 
+0027 - Mr. Driller - Drill Spirits (J) - Fully playable 
+0028 - Kirby's Canvas Curse (U) - Fully playable!! There's a few gfx missing, such as the rainbow lines, but otherwise it works!! 
+0029 - GoldenEye - Rogue Agent (U) - Intro only 
+0030 - Sprung - The Dating Game (U) - Fully playable but flash and you are able to see it perfectly but flash is just annoying, anyway. 
+0031 - Polarium (E) - Fully playable 
+0032 - Bomberman (J) - Fully playable 
+0033 - Kenshuui Tendo Dokuta (J) - Fully playable 
+0034 - Zoo Keeper (U) - Fully playable 
+0035 - Touch! Kirby's Magic Paintbrush (J) - Fully playable!! There's a few gfx missing, such as the rainbow lines, but otherwise it works!! 
+0036 - Daigasso! Band Brothers (J) - Fully playable with a few gfx errors but full of japanese language that I do not understand 
+0037- Super Mario 64 DS (U) (v1.0) - playable if you figure out where to use touchscreen on the botton of the screen with badly scramble 
+0038 - Ping Pals (U) - Wiress is require or it wont be playable 
+0039 - Another Code - Futatsu no Kioku (J) - nice fmv cuts but after japanese text and it's freezing 
+0040 - Hanjuku Eiyuu DS - Egg Monster Heroes (J) - Until you reach HP engery bars appears then screen freezed 
+0041 - Need For Speed - Underground 2 (E) - After you select the car, you are ready to race but on the top of the screen you are not able to see where you are going 
+0042 - Nintendogs - Chihuahua & Friends (J) - black screen 
+0043 - Spider-Man 2 (U) - On the bottom said "Press Start/ Credits", that is it. 
+0044 - Tennis no Ouji-Sama 2005 - Crystal Drive (J) - Playable but gfx is missing such as characters and fence..you cannot see what you are doing. 
+0045 - The Urbz - Sims In The City (U) - black screen 
+0046 - Yakuman DS (J) - scramble screen 
+0047 - Rayman DS (U) - Intro and menu but very slow then Loading appears and that's it 
+0048 - Mr. Driller - Drill Spirits (E) - Fully playable 
+0049 - Sprung - The Dating Game (E) - Fully playable but flash and you are able to see it perfectly but flash is just annoying, anyway. 
+0050 - Zoo Keeper (E) - Fully playable, not one single error! 
+0051 - Retro Atari Classics (E) - works perfectly 
+0052 - Another Code - Two Memories (E) - playable bu nice intro and fmv storyline until you reach blood edward island then the next screen becomes black and you are not able to see anything in the background and a little bit slow 
+0053 - Devilish (J) - works even better as last version, screens are now on right screen, appearantly and no more (almost) graphic glitches 
+0054 - Tiger Woods PGA Tour (E) - After you select "course" then freeze and some letters are gramble as well. 
+0055 - Asphalt - Urban GT (E) - black screen 
+0056 - Super Mario 64 DS (U) (1.1) - playable if you figure out where to use touchscreen on the botton of the screen with badly scramble 
+0057 - Pokemon Dash (J) - The Pokemon Company logo appears then that's it 
+0058 - Naruto - Saikyou Ninja Daikesshuu 3 (J) - black screen 
+0059 - Robots (U) - black screen 
+0060 - Meteos (U) - Fully playable but invisible on the bottom 
+0061 - Bomberman (U) - Fully playable 
+0062 - Madagascar (U)( - black screen 
+0063 - World Championship Poker - Deluxe Series (U) - Fully playable 
+0064 - Madden NFL 2005 (U) - Playable but you are not able to see your team in the background on the top of the screen but on the bottom of the screen is fine 
+0065 - Tiger Woods PGA Tour (U) - After you select "course" then freeze and some letters are gramble as well. 
+0066 - Tom Clancy's Splinter Cell - Chaos Theory (E) - black screen 
+0067 - Nou o Kitaeru Otona DS Training (J) - japanese text logo in the beginning and that's it 
+0068 - Nintendogs - Shiba & Friends (J) - black screen 
+0069 - Zoo Keeper (J) - Fully playable 
+0070 - Famicom Wars DS (J) - black screen 
+0071 - Tom Clancy's Splinter Cell - Chaos Theory (U) - black screen 
+0072 - Puyo Pop Fever (U) - Fully playable (some gfx errors when the screen go to the next screen but everything is perfectly.) 
+0073 - Yawaraka Atama Juku (J) - On the bottom of the screen with a green bar said something in the japanese text then that's it 
+0074 - Ganbare Goemon - Toukai Douchuu (J) - In the castle where you are supposed to get inside but wont do anything. 
+0075 - Nintendogs - Miniature Dachshund and Friends (J) - black screen 
+0076 - Star Wars Episode III - Revenge Of The Sith (U) - Fully playable 
+0077 - Sawaru Made in Wario (J) - after it asked you which hands ? Right or Left? Click Yes or No then click OK but freezed. 
+0078 - Kimi no Tame Nara Shineru (J) - Fully playable and a few gfx errors and slow a little bit 
+0079 - Bomberman (E) - Fully playable 
+0080 - Nanostray (U) - after intro, flash pink on the screen and that's it 
+0081 - Naruto RPG 2 - Chidori vs. Rasengan (J) - Fully playable but a little bit slow **see the pictures above** 
+0082 - Rayman DS (E) - Loading then that's it 
+0083 - Osu! Tatakae! Ouendan (J) - Intro but wont do anything 
+0084 - Animaniacs - Lights, Camera, Action! (E) - Fully playable but a few gfx errors 
+0085 - Jump Super Stars (J) - showing logo on the bottom "video codec by ACT IMAGINE smart display software then pirate flag logo and very slow but playable 
+0086 - Madden NFL 06 (U) - Intro but wont do anything 
+0087 - Space Invaders Revolution (E) - playable but you cannot see anything on the top of the screen where you are 
+0088 - Advance Wars - Dual Strike (U) - playable but slow and invisible words on the screen 
+0089 - Nintendogs - Chihuahua & Friends (U) - black screen 
+0090 - Nintendogs - Labrador & Friends (U) - black screen 
+0091 - Nintendogs - Dachshund & Friends (U) - black screen 
+0092 - Lunar Genesis (J) - Fully playable but a few gfx errors 
+0093 - FullMetal Alchemist - Dual Sympathy (J) - In FMV, a metal soldier appears then freeze 
+0094 - Akumajou Dracula - Aoitsuki no Juujika (J) - Showing castlevania and on the bottom of the screen ask to press B but nothing further ahead 
+0095 - Yu-Gi-Oh! - Nightmare Troubadour (U) - On the top of the screen is black and on the botton of the screen is green 
+0096 - DS Rakubiki Jiten (J) - Fully playable but it is in japanese and everything seems to be in good graphics 
+0097 - Pac'n Roll (J) - lightly tan on the screen 
+0098 - SD Gundam - G Generation DS (J) - ingame after the dialogues of the characters then green bar with no text in it then freeze 
+0099 - Rockman EXE 5 DS - Twin Leaders (J) - black screen 
+0100 - Bokujou Monogatari - Korobokkoru Sute-shon (J) - Fully playable 
+0101 - Survival Kids - Lost in Blue (J) - blue sky with cloudy, that's it 
+0102 - Nintendogs - Labrador & Friends (E) - black screen 
+0103 - Meteos (E) - Fully playable but invisible on the bottom 
+0104 - Mahjong Taikai (J) - Fully playable with a few gfx errors 
+0105 - Castlevania - Dawn of Sorrow (E) - Showing castlevania and on the bottom of the screen ask to press B but nothing further ahead 
+0106 - Pac'n Roll (U) - lightly tan on the screen, that's it 
+0107 - Tak - The Great Juju Challenge (U) - THQ and Nintendo license on the both screens, that's it 
+0108 - FIFA 06 (E) - Playable but you cannot see in the background on the top of the screen but on the bottom of the screen is fine. 
+0109 - Frogger - Helmet Chaos (U) - playable but slow and register your name is stuck on the top of the screen and you are not able to see your fog on the bottom of the screen because it is black 
+0110 - Lost in Blue (U) - blue sky with cloudy, thats it 
+0111 - Advance Wars - Dual Strike (E) - black screen 
+0112 - Trace Memory (U) - playable bu nice intro and fmv storyline until you reach blood edward island then the next screen becomes black and you are not able to see anything in the background and a little bit slow 
+0113 - Ultimate Spider-Man (U) - FMV showing at last! But before it tried goes into MENU..black screen. 
+0114 - Lunar - Dragon Song (U) - Fully playable but a few gfx errors 
+0115 - Whac-A-Mole (U) - Could not read the data. Turn off the power and reinsert the DS Card 
+0116 - Madden NFL 06 (E) - Playable but you are not able to see your team in the background on the top of the screen but on the bottom of the screen is fine 
+0117 - ATARIMIX - Happy 10 Games (J) - Fully playable 
+0118 - GoldenEye - Rogue Agent (E) - DEMO MODE - PRESS ANY BUTTON TO EXIT, that's it 
+0119 - Pokemon Dash (E) - Fully playable 
+0120 - FIFA 06 (U) - playable but you are not able to see your characters in the background on the top of the screen but on the bottom is fine 
+0121 - Castlevania - Dawn of Sorrow (U) - Showing castlevania and on the bottom of the screen ask to press B but nothing further ahead 
+0122 - Trauma Center - Under the Knife (U) - After limit time, that's it. 
+0124 - Nintendogs - Chihuahua & Friends (E) - black screen 
+0125 - Chou Shittou Caduceus (J) - Chou Shittou Caduceus logo then that's it 
+0126 - Yu-Gi-Oh! Duel Monsters - Nightmare Troubadour (J) - On the top of the screen is black and on the botton of the screen is green 
+0127 - Phoenix Wright - Ace Attorney (U) - perfectly playable but freeze when judge asked for the name of the defendant and there is invisible on the bottom and you have to figure out to use the touchscreen issues then got correct answered, that's it 
+0128 - Marvel Nemesis - Rise of the Imperfects (U) - Intro then The DS Game Card has been removed. Please power OFF your DS 
+0129 - Zoo Tycoon DS (U) - black screen 
+0130 - The Urbz - Sims in the City (E) - black screen 
+0131 - Ultimate Spider-Man (F) - FMV showing at last! But before it tried goes into MENU..black screen. 
+0132 - Power Pocket Koushien (J) - Intro then next screen is scramble with a green bar say something in japanese, that's it 
+0133 - Madagascar (E) - black screen 
+0134 - Ping Pals (E) - wiress is require or it wont be playable 
+0135 - Ultimate Spider-Man (E) - FMV showing at last! But before it tried goes into MENU..black screen. 
+0136 - Super Princess Peach (J) - Fully playable with few gfx errors 
+0137 - Pokemon Torouze (J) - black screen 
+0138 - Scooby-Doo! Unmasked (U) - Could not read the data. Turn off the power and reinsert the DS Card 
+0139 - Dig Dug - Digging Strike (U) - Fully playable 
+0140 - The Sims 2 (U) - Menu, it asked you to select which sex are you but wont touch anything at all 
+0141 - Shrek - Super Slam (U) - Could not read the data. Turn off the power and reinsert the DS Card 
+0142 - Metroid Prime Pinball (U) - The Data could not be written. Turn the power off. Remove and reinsert the DS Card. 
+0143 - Spyro - Shadow Legacy (U) - After choose a game then it's freezing. 
+0144 - Puzzle Bobble DS (J) - Flash badly on black and white from top and on the bottom 
+0145 - Spider-Man 2 (E) - Menu, Start Game and Credits then that's it 
+0146 - Cocoto Kart Racer (E) - Showing a car racing on the bottom and on the top is black screen, that's it. 
+0147 - GoldenEye - Au Service Du Mal (F) - Showing GoldenEye's logo 
+0148 - Pac'N Roll (E) - showing lightly tan screen, that's it 
+0149 - Spyro - Shadow Legacy (E) - After choose a game then it's freezing. 
+0150 - Mega Man Battle Network 5 - Double Team DS (U) - Capcom logo is now showing but fuzzy 
+0151 - Marvel Nemesis - Rise of the Imperfects (E) - Intro then The DS Game Card has been removed. Please power OFF your DS 
+0152 - Simple DS Series Vol.3 - The Mushitori Oukoku (J) - After you tried to grab a beetle then the next screen on the bottom say something about DS in japanese and that's it 
+0153 - The Incredibles - Rise of the Underminer (U) - Could not read the data. Turn off the power and reinsert the DS Card. 
+0154 - Nintendogs - Best Friends (U) - black screen 
+0155 - Daredemo Asobi Taizen (J) - black screen 
+0156 - Spider-Man 2 (E) - Start game and credits then that's it 
+0157 - Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (U) - Fully playable but few gfx errors and on the back of the screen is black but everything else is fine. 
+0158 - Touch de Rakushou! Pachislo Sengen - Rio de Carnival (J) - Menu is fine but with a little bit gfx error then next screen is scramble, thats it 
+0159 - Touch Game Party (J) - playable but invisible on the bottom of the screen if you want to play something after select any doors to enter. 
+0160 - GoldenEye - Dark Agent DS (J) - GoldenEye logo, thats it 
+0161 - Star Wars Episode III - Sith no Fukushuu (J) - Fully playable with some invisible on the bottm of the screen but otherwise fully playable 
+0162 - The Sims 2 (E) - Ingame, it asked you to pick which sex are you but that's about it. 
+0163 - Viewtiful Joe - Double Trouble! (U) - Showing nice INTRO then SlideFilm on the screen and that's it. 
+0164 - Harry Potter and the Goblet of Fire (E) - black screen 
+0165 - Madagascar (I) - black screen 
+0166 - Viewtiful Joe - Scratch! (J) - Showing nice INTRO then SlideFilm on the screen and that's it. 
+0167 - Akachan wa Doko Kara Kuru no (J) - black screen 
+0168 - Mario Kart DS (U) - black screen 
+0169 - Shamu's Deep Sea Adventures (U) - Fully playable with a few gfx errors 
+0170 - SpongeBob Squarepants - The Yellow Avenger (U) - black screen 
+0171 - Texas Hold 'Em Poker (U) - Fully playable with a few gfx errors 
+0172 - Disney's Kim Possible - Kimmunicator (U) - Could not read the data. Turn off the power and reinsert the DS Card. 
+0173 - The Chronicles of Narnia - The Lion, The Witch and The Wardrobe (U) - Could not read the data. Turn off the power and reinsert the DS Card. 
+0174 - Tony Hawk's American Sk8land (U) - On the top of the screen says "saving" then that's it 
+0175 - Need for Speed Most Wanted (U) - black screen 
+0176 - Tony Hawk's America sk8land (E) - On the top of the screen says "saving" then that's it 
+0177 - Sonic Rush (U) - Intro only 
+0178 - Harry Potter and the Goblet of Fire (U) - black screen 
+0179 - Lost in Blue (E) - Blue sky with cloudy on the top of the screen and that's it 
+0180 - Zoo Tycoon DS (E) - Bauden on the bottom of the screen and above is black screen, that's it 
+0181 - Shrek - Super Slam (E) - Could not read the data. Turn off the power and reinsert the DS Card. 
+0182 - Yu-Gi-Oh! Nightmare Troubadour (E) - black screen on the top and green on the bottom of the screen, that's it 
+0183 - Scooby-Doo! Unmasked (E) - Could not read the data. Turn off the power and reinsert the DS Card. 
+0184 - Zoo Tycoon DS (E) - black screen 
+0185 - Sonic Rush (E) - Intro only 
+0186 - Gyakuten Saiban - Yomigaeru Gyakuten (J) - perfectly playable but freeze when judge asked for the name of the defendant and there is invisible on the bottom and you have to figure out to use the touchscreen issues then got correct answered, that's it 
+0187 - Madagascar (G) - black screen 
+0188 - Ultimate Spider-Man (G) - FMV showing at last! But before it tried goes into MENU..black screen. 
+0189 - Tantei Kibukawa Ryosuke Jiken Tan - The Masquerade Lullaby (J) - Intro only 
+0190 - SEGA Casino (U) - Fully playable with a few gfx errors 
+0191 - Ping Pals (G) - wiress is require or it wont be playable 
+0192 - Pokemon Fushigi no Dungeon - Ao no Kyuujotai (J) - black screen 
+0193 - Oideyo Doubutsu no Mori (J) - black screen 
+0194 - Pac Pix (J) - black screen 
+0195 - Simple DS Series Vol. 2 - The Billiards (J) - black screen 
+0196 - The Chronicles of Narnia - The Lion, The Witch and The Wardrobe (E) - Could not read the data. Turn off the power and reinsert the DS Card. 
+0197 - Dragon Ball Z - Supersonic Warriors 2 (U) - license on the bottom and black screen on the top 
+0198 - King Kong (U) - Could not read the data. Turn off the power and reinsert the DS Card. 
+0199 - Kenshuui Tendo Dokuta 2 - Inochi no Tenbin (J) - Fully playable 
+0200 - Bubble Bobble DS (J) - Fully playable but slow 
+0201 - Mario Kart DS (E) - black screen 
+0202 - Kirby - Canvas Curse (E) - Fully playable!! There's a few gfx missing, such as the rainbow lines, but otherwise it works!! 
+0203 - Nintendo Touch Golf (E) - Slow but select one of the four characters but wont do anything 
+0204 - SpongeBob Squarepants - The Yellow Avenger (E) - black screen 
+0205 - SBK - Snowboard Kids (U) - The data could not be written. Turn power off and remove and reinsert the DS Game Card. 
+0206 - Snood 2 - On Vacation (U) - Fully playable but invisible line where you want to shoot balls to 
+0207 - Simple DS Series Vol.6 - The Party Game (J) - ingame, there is invisible on the bottom of the screen 
+0208 - Need for Speed Most Wanted (E) - black screen 
+0209 - The Incredibles - Rise of the Underminer (E) - Could not read the data. Turn off the power and reinsert the DS Card. 
+0210 - Super Monkey Ball DS (J) - Ingame, on the bottom of the screen is orange with palm trees and wont go any further 
+0211 - Real Time Conflict - Shogun Empires (U) - After License by Nintendo logo then scramble 
+0212 - ATV - Quad Frenzy (U) - ingame, start game then that's it 
+0213 - Monster Truck DS (U) - Could not read the data. Turn off the power and reinsert the DS Card. 
+0214 - Golden Nugget Casino DS (U) - Fully playable but difficult for me to understand , you can try it. 
+0215 - Ford Racing 3 (U) - The Data could not be written. Turn the power off. Remove and reinsert the DS Card. 
+0216 - Mario and Luigi - Partners in Time (U) - Playable but hanging when you tried to fight Baby Boswer at Princess Castle 
+0217 - Simple DS Series Vol.1 - The Mahjong (J) - After the intro..something say on the top of the screen in japanese then that's it 
+0218 - Bubble Bobble Revolution (E) - Fully playable but weird is that Bubble Bobble cannot turn to right but you are able to move him on the left while moving to the right, weird 
+0219 - Slime Morimori Dragon Quest 2 (J) - Square Enix logo then that's it 
+0220 - Soreike Anpanman (J) - Something appears then goes into black screen 
+0221 - Burnout Legends (U) - Select any languages then goes into black screen 
+0222 - Pawa Puro kun Poketto 8 (J) - On the bottom, the baseball guy say something in japanese then wont do anything 
+0223 - Animal Crossing - Wild World (U) - black screen 
+0224 - Elf Bowling 1 & 2 (U) - Fully playable 
+0225 - Battles of Prince of Persia (E) - black screen 
+0226 - Burnout Legends (E) - Select any languages then goes into black screen 
+0227 - Londonian Gothics - Meikyuu no Lolita (J) - Shwoing lava ball or something with someone beside it on the bottom of the screen then that's it 
+0228 - Mario Kart DS (J) - black screen 
+0229 - Big Mutha Truckers (E) - playable but slow and you wont see anything on the top of the screen when you drive 
+0230 - Bokujou Monogatari - Colobocle Station for Girls (J) - Fully playable with a little bit gfx errors 
+0231 Titeuf Mission Nadia (E) - Playable but slow and after you pick any games, then that's it 
+0232 - Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (E) - Fully playable but few gfx errors and on the back of the screen is black but everything else is fine. 
+0233 - Battles of Prince of Persia (U) - black screen 
+0234 - Bust-A-Move DS (U) - After Round 1 to be ready but nothing goes on. 
+0235 - Zoids Saga DS - Legend of Arcadia (J) - playable but very badly gfx errors 
+0236 - Ford Racing 3 (E) - The data could not be written. Turn power off and remove and reinsert the DS Game Card. 
+0237 - Snood 2 - On Vacation (E) - Fully playable but invisible line where you want to shoot balls to 
+0238 - 4 in 1 - Monopoly & Boggle & Yahtzee and Battleship (U) - Playable but gfx errors and some invisible in the games 
+0239 - Tao - Mamono no Tou to Mahou no Tamago (J) - Loading thats it or some else you want to pick and wont do anything as well 
+0240 - Pac-Man World 3 (U) - Intro is scramble on the bottom and on the top is black screen 
+0241 - Shanghai (J) - On the bottom say something in japanese then that's it 
+0242 - Franklin's Great Adventures (E) - Fully playable 
+0243 - Bouken-Ou Beet - Vandal vs. Busters (J) - After you select something then ingame, on the top but on the bottom is fine, that's it 
+0244 - Shichida Shiki Training Unou Tanren Unotan DS - Shun Kan Shoubu! Shuuchuuryoku (J) - ingame but invisible on the bottom 
+0245 - Gundam Mahjong DS - Oyaji ni mo Agararekotonai-noni (J) - Fully playable with a few gfx errors 
+0246 Dragon Ball Z Bukuu Ressen (J) - Bandai license on the bottom 
+0247 Harobots Action (J) - playable but after you do anything, on the top of the screen is the metal that shut something and that's it 
+0248 New Rainbow Island (J) - Fully playable with a few gfx errors 
+0249 - Urusei Yatsura - Endless Summer (J) - playable with a few gfx errors 
+0250 - Wizardry Asterisk - Hiiro no Fuuin (J) - playable but very badly gfx errors and some invisible 
+0251 - Motto Nou wo Kitaeru Otona no DS Training (J) - japanese red text say something then that's it 
+0252 - Mario & Luigi RPG 2x2 (J) - Hang after Baby Boswer is ready to fight with you in the Princess Castle 
+0253 Super Black Bass DS Dynamic Shot (J) - Press start but wont do anything 
+0254 Kyouryuu Taisen Dino Champ (J) - After register your name then freeze 
+0255 KyouRyuu GurannPuri (J) - Beautiful landscape then freeze 
+0256 Kouchuu Kakutou Mushi-1 Grand Prix (J) - Dont do anything when computer on the screen starting up 
+0257 Simple DS Series Vol 4 The Block Kuzushi (J) - Fully playable but I do not understand this game 
+0258 Unou Tanren Unotan DS ShunKan Shoubu Handanryoku (J) - playable but invisible on the screen 
+0259 Lucky Star Moe Drill (J) - A lady on the bottom and on the top of the screen is error but freeze 
+0260 Unou Tanren Unotan DS Shun Kan Shoubu! Kiokuryoku (J) - playable but invisile on the screen 
+0261 Jissen Pachislot Hisshouhou Hokuto no Ken (J) - After you select something then a new screen coming up and freeze 
+0262 Electroplankton (U) - Flash, that's it 
+0263 - Sonic Rush (J) - Intro only 
+0264 Tamagotchi no Puchu Puchi O-Misecchi (J) - black screen 
+0265 - Sega Casino (E) - Fully playable with a few gfx errors 
+0266 Futari wa Precure Max Heart Danzen (J) - After you select an character and the top of the screen is black 
+0267 Mangaka Debut Monogatari (J) - Fully playable..its fun! 
+0268 - The Urbz - Sims in the City (J) - black screen 
+0269 - Dragon Booster (U) - intro and menu are perfectly and a little bit glitches but ingame is black screen 
+0270 Nicktoons Unite (U) - The data could not be written. Turn power off and remove and reinsert the DS Card 
+0271 - Devilish (E) - works even better as last version, screens are now on right screen, appearantly and no more (almost) graphic glitches 
+0272 Dig Dug Digging Strike (J) - Fully playable 
+0273 Tottoko Hamutaro Nazonazo Q Kumo No Ue No Hatena Jou (J) - Fully playable but slow and it is very cute hamsters 
+0274 Onegai My Melody Yume no Kuni no Daibouken (J) - Fully playable but a little bit slow on and off I think 
+0275 - Lost Magic (J) - black screen 
+0276 - BioHazard Deadly Silence (J) - Intro and menu are perfectly but slow and ingame showing on the top of the screen is Mansion 1F and on the bottom is black screen, that's it 
+0277 - Appare Syougi Jiisan Washi to Syoubu Ja (J) - Ingame but dont do anything 
+0278 - Kouchuu Ouja Mushi King Greatest Champion e no_ Michi DS (J) - Turn the power off. Remove and reinsert the DS Card 
+0279 - Otona no DS Golf (J) - Select your favorite character then that's it 
+0280 - Spiderman 2 (J) - On the bottom said "Press Start/ Credits", that is it. 
+0281- Yakitate Japan Game1gou Choujou Kessen Pantajikku Grand prix (J) - Fully playable but very slow 
+0282 - Zettai Zetumei Dangerous Jiisan DS Dangerous Sensatio (J) - Fully playable but very slow 
+0283 - Iron Feather (J) - In Japanese text on the bottom then that's it 
+0284 - Billiard Action (E) - black screen 
+0285 - Snowboard Kids DS Party (J) - The data could not be written. Turn power off and remove and reinsert the DS Game Card. 
+0286 - Puyo Puyo Fever 2 Chuu (J) - "popping puzzle fun" on the screens then that's it 
+0287 - Metroid Prime Pinball (J) - The Data could not be written. Turn the power off. Remove and reinsert the DS Card. 
+0288 - King Kong (E) - Could not read the data. Turn off the power and reinsert the DS Card. 
+0289 - Mawashite Koron (J) - Flash 
+0290 - Table Game Spirits (J) - Fully playable 
+0291 - Tiger Woods PGA Tour (J) - After you select "course" then freeze and some letters are gramble as well. 
+0292 - Bleach DS Souten ni Kakeru Unmei (J) - black screen 
+0293 - Eigo ga Nigate na Otona no DS Training Eigo Zuke (J) - After you select something then red bar on the bottom and that's it 
+0294 - True Swing Golf (U) - Select your favorite character then that's it 
+0295 - Danshaku (J - after intro, flash pink on the screen and that's it 
+0296 - Greg Hastings Tournament Paintball MAXd (U) - On the bottom of the screen, title logo then that's it 
+0297 - Mario and Luigi - Partners in Time (E) - Hang after Baby Bowser try to fight with you in the Princess Castle 
+0298 - The Chronicles of Narnia - The Lion, The Witch and The Wardrobe (E) - Could not read the data. Turn off the power and reinsert the DS Card. 
+0299 - Croket DS Tenkuu no Yuushatachi (J) - After you select something then on the top of the screen shown Croket DS and on the bottom is blue screen, that's it 
+0300 - Hippatte! Puzzle Bobble (J) - Lots of gfx errors 
+0301 - Eye Shield 21 Max Devil Power! (J) - On the bottom of the screen say something in Japanese text then that's it 
+0302 - Kero Kero (J) - Intro then that's it 
+0303 - Tamagotchi Connection Corner Shop (U) - black screen 
+0304 - Dragon Ball Z Supersonic Warriors 2 (E) - License on the bottom of the screen then that's it 
+0305 - Unou no Tatsujin Soukai Machigai Museum (J) - Fully playable and a little bit slow 
+0306 - Finding Nemo Escape to the Big Blue (U) - License by Nintendo logo then that's it 
+0307 - The Rub Rabbits (U) - black screen 
+0308 - Arashi no Yoruni (J) - Fully playable but alots of Japanese text languages 
+0309 - Asphalt Urban GT (J) - black screen 
+0310 - Minna no Mahjong (J) - Fully playable with a few gfx errors 
+0311 - Oekaki Puzzle Battle Gaogaiger (J) - Intro then that's it 
+0312 - Robots (J) - black screen 
+0313 - The Sims 2 Hachamecha Hotel Life (J) - Select what sexes you want then that's it 
+0314 - Resident Evil Deadly Silence (U) - Intro and menu are perfectly but slow and ingame showing on the top of the screen is Mansion 1F and on the bottom is black screen, that's it 
+0315 - Nihon Pro Mahjong Kishikai Kanshuu Pro Ni Naru Mahjong (J) - Click "A" then that's it 
+0316 - Chokoken no Omise Patisseri Sweets Shop Game (J) - Fully playable but a few gfx errors and a little bit slow 
+0317 - Tsubasa Chronicle (J) - A few gfx errors but wireless is require 
+0318 - Pokemon Fushigi no Dungeon Aoi v1.1 (J) - After a flew bird drops a letter then that's it 
+0319 - Rr. Incredible Kyouteki Underminder Toujou (J) - Could not read the data. Turn off the power and reinsert the DS Card. 
+0320 - Super Monkey Ball (E) - Ingame, on the bottom of the screen is orange with palm trees and wont go any further 
+0321 - Spongebob Squarepants And Friends Unite (E) - Tha data could not be written. Turn power off and remove and reinsert the DS Card 
+0322 - Frogger - Helmet Chaos (E) - playable but slow and register your name is stuck on the top of the screen and you are not able to see your fog on the bottom of the screen because it is black 
+0323 - Kono Quiz Yarou (J) - The Japanese text on on the top of the screen then that's it 
+0324 - Age of Empires - The Age of Kings (U) - playable but freeze when Minamota appears 
+0325 - Nanostray (E) - after intro, flash pink on the screen and that's it 
+0326 - Touch Dictionary (K) - Fully playable 
+0327 - James Pond Codename Robocod (E) - The data could not be written. Turn off the power and reinsert the DS Card. 
+0328- The Rub Rabbits (E) - black screen 
+0329 - Top Gun (J) - Intro only 
+0330 - Sangokushi DS (J) - slow but menu is fine and when you click on the bottom of the screen then next screen say something in japanese so I dont know what to do next 
+0331 - Tak 3 The Great Juju Challenge (E) - THQ license then that's it 
+0332 - Viewtiful Joe Double Trouble (E) - Intro is fine but after SlideFilm on the bottom of the screen then that's it 
+0333 - Super Monkey Ball: Touch and Roll (U) - Ingame, on the bottom of the screen is orange with palm trees and wont go any further 
+0334 - Itsu Demo Doko Demo Dekiru Igo (J) - Fully playable 
+0335 - Itsu Demo Doko Demo Dekiru Shogi (J) - Fully playable 
+0336 - Fifa Street 2 (E) - Slow and you wont see the characters on the top of the screen 
+0337 - Shunkan Puzzloop (J) - Fully playable but very slow 
+0338 - Seiken Densetsu DS - Children of Mana (J) - black screen 
+0339 - Daikoukai Jidai IV Rota Nova (J) - After the dialogues and slow, the top of the screen is black and on the bottom doing nothing 
+0340 - Super Princess Peach (U) - Fully playable with few gfx errors 
+0341 - Kim Possible: Kimmunicator (E) - Could not read the data. Turn off the power and reinsert the DS Card. 
+0342 - Doraemon Nobita no Kyouryuu 2006 DS (J) - ould not read the data. Turn off the power and reinsert the DS Card 
+0343 - Narnia Koku Monogatari Lion to Majo (J) - Could not read the data. Turn off the power and reinsert the DS Card 
+0344 - FIFA Street 2 (U) - Slow and you wont see the characters on the top of the screen 
+0345 - Viewtiful Joe - Double Trouble! (F) - Showing nice INTRO then SlideFilm on the screen and that's it. 
+0346 - Tengai Makyou II Manjimaru (J) - Fully playable with no gfx errors!!! 
+0347 - Blades of Thunder II (U) - black screen
+0348 - Texas Hold 'Em Poker Pack (U) - Game Card Write Failure ==> The Game Card could not be accessed. Turn off game, reinsert Game Card and try again. 
+0349 - Ultimate Spider-Man - ITALIA - FMV showing at last! But before it tried goes into MENU..black screen.
+0350 - Pokemon Trozei (U) - black screen 
+0351 - Ping Pals France - Wiress is require or it wont be playable
+0352 - Bust-A-Move DS - (E) -Round 1 - A then freezing
+0353 - Lunar Genesis - (E) - Fully playable with a few gfx errors
+0354 - Space Invaders DS - (U) - playable but black screen ingame
+0355 - Big Mutha Truckers (U) - Playable after save failed then loading...you wont be able to see what you are doing on the top of the screen.
+0356 - Viewtiful Joe: Double Trouble! (Italy) - Showing nice INTRO then SlideFilm on the screen and that's it.
+0357 - Chou Gekijou Han Keroro Gunsou Enshuu Dayo Zenin Shuugou (J) - Intro only
+0358 - Garkau Tale (J) - Intro only and on the below of the screen is grey
+0359 - Ice Age 2 - (U) - NO SAVE FOUND - Creating new age ice 2 data - freezed 
+0361 - Pokemon Ranger - (J) - black screen
+0362 - Cooking Mama - (J) - ingame but sprites are missing and invisible
+0363 - Puzzle Series Vol 3: Sudoku - (J) - The little guy hold the sign "!" after clicks a few time in gfx error bar then that's it.
+0364 - Puzzle Series Vol1 Jigsaw Puzzle - (J) - Fully playable ? Missing sprites ? I dont know.
+0365 - Ys Strategy - (J) - On the top of the screen said in the japanese text then that's it.
+0366 - Metroid Prime Hunters (U) - Flash and when you click it..it turn to black screen
+0367 - Tetris DS (U) - Unable to read the data. Please turn the power off and reinsert the Game Card 
+0368 - Worms: Open Warfare (UK) - The data could not be written. Turn the power off and remove and reinsert the DS Card 
+0369 - Taos Adventure Curse of the Demon Seal (U) - After you click Start a new game and it was freezed
+0370 - Madagascar (F) - black screen
+0371 - Worms: Open Warfare (U) - The data could not be written. Turn the power off and remove and reinsert the DS Card
+0372 - Minna de Wai Wai Kokoto Kart (J) - On the bottom showing a screen of the race stand still of pink alien himself but on the top is black screen
+0373 - Super Black Bass Fishing (U) - Intro and wont let you press the start with touchscreen or buttons at all. 
+0374 - Contact (J) - Intro and it asked you to touchscreen F1 for New game, F2 for Continue, and F3 for Contact but no reponse at all.
+0375 - Xenosaga I & II (J) - black screen
+0376 - Style Book Junior City (J) - The data could not be written. Turn the power off and remove and reinsert the DS Card
+0377 - Style Book Fushigi Boshi no Futago Hime (J) - The data could not be written. Turn the power off and remove and reinsert the DS Card
+0378 - Puzzle Series Vol 2: Crossword (J) - The little guy hold the sign (!) after clicks a few time with a few gfx error on the bottom then that's it.
+0379 - Monster Bomber (J) - Flash (!) on the top and on the bottom have subtitle rolling from right to left and that's it.
+0380 - Deep Labyrinth (J) - .....Now Loading then black screen
+0381 - Madagascar (J) - black screen 
+0382 - Style Book Cinnamoroll (J) - The data could not be written. Turn the power off and remove and reinsert the DS Card 
+0383 - Kanbayashi Shiki Nouryoku Kaihatsuhou Unou Kid (J) - Intro but isn't able to see on the bottom at all
+0384 - issen Pachi Slot Hisshouhou DS Aladdin 2 Evolution (J) - Ingame with alots of gfx errors
+0385 - Kageyama Hideo no IQ Teacher DS (J) - Intro only
+0386 - Marheaven Karudea no Akuma (J) - Intro only
+0387 - San X Land Theme Park de Asobou (J) - I think it is something to do with card reinsert or something because it is in japanese text on the top of the screen.
+0388 - Harry Potter to Honou no Goblet (J) - black screen
+0389 - Ice Age 2 - The Meltdown (J) - NO SAVE FOUND - Creating new age ice 2 data - freezed 
+0390 - Animal Crossing Wild World (E) - black screen
+0391 - Resident Evil: Deadly Silence (E) - FMV is great and little bit fast then ingame on the top of the screen is perfect gfx and on the bottom is black screen
+0392 - Viewtiful Joe Double Trouble (E) (UK) - Ingame has no sprites.. only his lives and score thats all
+0393 - Rainbow Island Revolution (E) - Loading failed. Please turn power off, remove the DS Card and then re-insert it.
+0394 - Tenchu Dark Shadow (J) - Say something in japanese text with two characters in the background on the bottom of the screen.
+0395 - Phoenix Wright - Ace Attorney (E) (Eng/Fr) - Until the judge asked for the name then it was freezed
+0396 - Brain Age (U) - Unable to access save data. Turn off the DS and reinsert the Game Card
+0397 - Angelique Duet - Hiku Toshi Monogatari (J) - black screen
+0398 - Fruits Mura no Doubutsu Tachi 2 (J) - Ingame but the storyline on the top of the screen is missing in sprites, that's all I know.
+0399 - Top Spin 2 (E) - black screen 
+0400 - Top Spin 2 (U) - black screen 
+0402 - Osawari Tantei Osawa Rina (J) - Fully playable? Text too much to read in japanese 
+0403 - Finding Nemo Escape to the Big Blue (E) - Licensed by Nintendo logo then that's it
+0404 - Franklin's Great Adventures (U) - 0242 - Franklin's Great Adventures (E) - Ingame until you talked to mom after Owl and dad and the message "The data could not be written. Turn power off and remove and reinsert the DS Card."
+0405 - Kanji Sonomama Rakubiki Jiten (J) - No intro ? Ingame but it say something in japanese, that's it
+0406 - Snowboard Kids SBK (E) - The data could not be written. Turn power off and remove and reinsert the DS Game Card.
+0407 - Tabi no Yubisashi Kaiwachou DS: DS Series 2 Chuugoku (J) - white screen with japanese text on the bottom then that's it
+0408 - Soroeru Puzzle Douwa Oukoku (J) - Intro only and in japanese text say something and that's it
+0409 - Tsubasa Chronicle Volume 2 (J) - Fully playable but slow
+0410 - Zoo Tycoon Doubutuen Wo Tukurou (J) - missing sprites ingame and unplayable
+0411 - Tabi no Yubisashi Kaiwachou DS Korea (J) - Say something in Korea text and that's it.
+0412 - Tabi no Yubisashi Kaiwachou DS Thai (J) - say something in Thai text and that's it.
+0413 - Tetris DS (E) - Unable to read the data. Please turn the power off and reinsert the Game Card.
+0414 - My Pet Hotel (E) - Fully playable but slow when meeting people and a few gfx errors.
+0415 - MegaMan Battle Network 5: Double Team DS (E) - Capcom logo is now showing but fuzzy.
+0416 - Naruto: Saikyo Ninja Daikesshu 4 - (J) - Nice intro then something in the japanese text and that's it.
+0417 - Tetris DS - (J) - Unable to read the data. Please turn the power off and reinsert the Game Card.
+0418 - Ore No Sentoki - (J) - Fully playable but in game have some bad gfx errors.
+0419 - Tabi no Yubisashi Kaiwachou DS America (J) - Say something in the japanese text and that's it.
+0420 - FIFA World Cup 2006 (E) - ingame but sprites are missing on the top of the screen.
+0421 - Tabi no Yubisashi Kaiwachou DS German (J) - say something in the japanese text.
+0422 - Simple DS Series Vol 7 The Illust Puzzle and Suuji Puzzle (J) - intro only.
+0423 - Ochaken no Heya - (J) - say something in the japanese text.
+0424 - Nobunaga no Yabou DS - (J) - Some missing and touchscreen unresponsive ?
+0425 - 2006 FIFA World Cup - (U) - ingame but sprites are missing on the top of the screen.
+0426 - Guilty Gear Dust Strikers (U) - DS Card error. Data was not able to be saved. Turn off power and try to insert the DS Card.
+0427 - LostMagic (U) - black screen.
+0428 - Trauma Center - Under the Knife (E) - After limit time, that's it.
+0429 - LostMagic (E) - black screen.
+0430 - Puzzle series Vol. 2 - Crossword v1.1 (J) - The little guy hold the sign (!) after clicks a few time with a few gfx error on the bottom then that's it.
+0431 - Metroid Prime: Hunters (E) - black screen.

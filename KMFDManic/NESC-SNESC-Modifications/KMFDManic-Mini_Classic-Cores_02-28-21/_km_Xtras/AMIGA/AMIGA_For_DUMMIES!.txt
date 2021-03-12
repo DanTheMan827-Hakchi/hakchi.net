@@ -1,0 +1,120 @@
+Tutorial below these quick notes:)
+
+Amiga (500)  = (OCS) = Original Chip set
+Amiga (600)  = (ECS) = Enhanced Chip Set
+Amiga (1200) = (AGA) = Advanced Graphics Architecture (Slow!)
+
+P-UAE Standard = Best for Mouse Driven/.m3u playlist games
+P-UAE Xtreme   = 2 Player Mode Activate/Bigger Keyboard/GUI Removed/More Optimal Control Scheme!
+
+Xtreme Controls:
+
+L2 = show/hide status
+R2 = UNUSED
+L = mouse speed down (min 1)
+R = mouse speed up (max 6)
+SEL = toggle mouse/joy mode
+STR = show/hide virtual keyboard (vkbd)
+A = joystick fire 1/mouse 1/vkbd key pressed
+B = joystick fire 2/mouse 2
+X = UNUSED
+Y = UNUSED
+
+Hello everyone!  It is now time to make Amiga so much easier for you all:)  I give personal thanks to all who have worked on
+the original P-UAE, the WHDLoad Team, Commodore, the company behind AMIGA.  The collaborative efforts of madmonkey, qclart, and
+myself (KMFDManic) has ended up with some truly amazing Amiga awesomeness on the Mini Classics.  Enjoy!
+
+First of all, forget all you have seen, done, heard, since the advent of AMIGA emulation on the Mini Classics!  Throw that all
+out the window.  We will be doing this in a very new and incredibly special way, right here and now:)
+
+You will need the following in order to run AMIGA, first and foremost...
+
+- For the Mini NES/SNES Classics, install latest RetroArch Xtreme from primary Release, and/or from KMFD Mod Hub, RetroArch, along
+with the P-UAE Standard and/or Xtreme Core Variants.
+
+- For the Playstation Classic, install from PS CLASSIC folder, the latest injector for AutoBleem or BleemSync
+
+Next up, you will need to account for the BIOS, which are absolutely mandatory.  There is no way around this!  You can find them
+online, or purchase them on your mobile phone for approximately 3 USD, or on PC from AmigaForever.com website for roughly 30 USD.
+
+**BIOS** wise, you will need the following:
+
+Note: I have personally found that a majority of games can run with "Just" WHDLoad.hdf and kick40063.a600  Most Amiga 1200 games
+run slow.  So, I would consider kick40068.a1200 somewhat optional, along with the lesser used kick34005.a500  So, take that with
+a grain of salt, as far as minimal or maximum installations!  
+
+Note 2: In order to run Amiga 500 or Amiga 1200 Games, you will need to have (OCS) or (500) as part of the file name for Amiga 500.
+And, (AGA) or (1200) as part of the file name for Amiga 1200.  You can, additionally, save game override to 500 or 1200 for these.
+
+IE: Agony.hdf will give you an error message that you don't have enough cpu.  Agony(AGA).hdf will detect as a 1200 game!
+Unfortunately, the way the SNES/NES Classic works with special characters, parenthesis are auto removed.  So, you would need
+to either direct load them, or amend the file name AND Command Line within hakchi, after the fact (adding them!) to work.
+
+Again, 1200 AKA AGA games run SLOW!  And, 500 games are few and far between.  So, you will not run into many cases where you
+will need to, nor even want to run these.  But, if you do, 1200 (AGA) games do run better on Playstation Classic.  And, you
+can alternately use UAE4ARM with .uae files on SNES/NES Classic to get "full speed" AGA games.  This won't work on PS Classic,
+as of yet!
+
+Now then,
+
+Name	        Description	                System	        MD5
+
+WHDLoad.hdf     Loads .hdf games                Amiga ALL                                  
+kick34005.A500	Kickstart v1.3 Rev. 34.005	Amiga 500	82a21c1890cae844b3df741f2762d48d  Kickstart v1.3 rev 34.5 A500-A1000-A2000-CDTV
+kick40063.A600	Kickstart v3.1 Rev. 40.063	Amiga 600	e40a5dfb3d017ba8779faba30cbd1c8e  Kickstart v3.1 Rev 40.063 a600
+kick40068.A1200	Kickstart v3.1 Rev. 40.068	Amiga 1200	646773759326fbac3b2311fd8c8793ee  Kickstart v3.1 rev 40.68 A1200
+
+WHDLoad.hdf will automatically install with the injector/s for Playstation Classic.  For the NES/SNES Classics, you can install
+the RetroArch BIOS P-UAE WHDLoad.hmod from primary Release, and/or from KMFD Mod Hub, under Add-Ons!
+
+The other 3 files need to be exactly named as specified in the leftmost column.  To install these:  
+
+- On the NES/SNES Classic, use the Master BIOS Module from primary Release and/or KMFD Mod Hub, under Xtras.  Copy them to the root,
+then install the entire HMOD like any other HMOD, via Modules Tab within Hakchi2 CE!
+
+- On the Playstation Classic, navigate to retroarch/system, and directly copy the BIOS there.
+
+**Running Games**
+
+You will be able to directly load a majority of .adf games simply by Load Core, Load Content, with PS Classic.  And, on SNES/NES
+Classics, add .adf files, with command line /bin/puae  And, as long as BIOS are properly installed and accounted for, and you are
+using the appropriate RetroArch installation for whichever mini system, as I suggested above, you will be good to go!
+
+**Slightly More Advanced Users**
+
+You can run multi disk games, without needing to have in .hdf (Hard Drive Image Files), via .m3u playlists!  I include a template
+one for Apydia in Xtras/AMIGA, as well as Xtras/MULTI-DISK.  You can amend this to match whichever games you need to run.  
+
+IE: 
+
+Apidya (1992)(Kaiko - Play Byte)[cr QTX](Disk 1 of 2).adf
+Apidya (1992)(Kaiko - Play Byte)[cr QTX](Disk 2 of 2).adf
+
+When prompted to switch to Disk 2 or more, go to RetroArch Settings, Disk Control, then change to the specified disk, in question...
+then, append to it!  This will only work with Standard P-UAE Core, for now...Not P-UAE Xtreme.  
+
+**More Advanced Users**
+
+HDF Files are Hard Drive Images for Amiga Games.  You can find these online...But, they will mostly not work, in their current state.
+They would need fixed.  I have posted a video tutorial on my YouTube Channel, called "Playstation Classic - Amiga For Dummies - Tutorial", 
+to help you all along!  You will use the ADFOpus program that I include in my Release, under Xtras/AMIGA!  
+
+Note: When fixing and repacking and creating .hdf files, they should be 2 MB and up in size, or you may run into error messages with
+ADFopus.  Additionally, game.slave should be utilized as the naming convention for whichever current game_name_here.slave exists, or 
+.hdf files will NOT boot!  
+
+
+**Way More Advanced Users**
+
+You can run .uae files, which I include templates for...that qclart and myself had worked on previously..in Xtras/AMIGA/Amiga_Template.7z
+.uae files are essentially configuration files that set up the perimeters for the games that need to be run.  These are tricky to use.
+And, they are most certainly not as User Friendly as the Direct Load method I detail above!  You will need to refer to the original 
+AMIGA_ReadMe! for more information on these.  You will be able to run a great majority of games with the Direct Load method, which
+again, will more likely be the go to method for Non Way More Advanced Users!  You "may" experience performance hits, depending on
+which architecture's games you are running, be it Original, Enhanced, or Advanced Chip Sets.  Advanced will ALWAYS run slow, period!
+
+Good luck!
+
+Sincerely, KMFDManic...
+
+PS, as always, let me know if any of you need help or assistance with any of this.  The cat sometimes bumps the keyboard, as well:)  

@@ -1,0 +1,457 @@
+UPDATE 12-28-17
+
+More Arcade Goodness with MAME 2003 Update (Personal Thanks to gamez-fan!!!)! I also Updated nearly every other Core! Also, I put together a Dummies Guide For USB-HOST, to take the minimalist approach to getting things going! I included a few more tools to help you Guys & Gals out! I updated the Arcade Compatibility, too. Lastly, there is now a Dummies USB-HOST Text File with a few Cardinal Rules to follow! Here are two videos for you to enjoy, and have fun with the Update!!!
+
+SNES Classic - MAME 2003 Goodness!!
+
+https://www.youtube.com/watch?v=xj4A87AuSWg
+
+SNES Classic - USB-HOST For Dummies!!!
+
+https://www.youtube.com/watch?v=EFr08ooxdLA
+
+UPDATE 12-27-17
+
+Nothing TOO crazy today. This is mainly an Arcade Compatibility Update:) Grab today's MAME 2003 and you can play some completely awesome new Games! Boogie Wings by Data East and one other special one, that is a true spiritual successor to the great Strider 1 Arcade Game, as depicted in the video at the end of today's Update info:) I added an Arcade Compatibility Folder to help further the knowledge as far as what can and cannot run within our Arcade Cores!!! This will constantly be updated, henceforth! I will be working with realcreamstick and the Community, to better increase knowledge of such:) I added templates for "sound samples" for the other Arcade Cores that use them. Tomorrow's Update will have more goodies! But, today's is notably about some Arcade Goodness! Expect, also, another USB-HOST Video that will help many who are stuck! So, enjoy the Update!!! And, enjoy the Video!!! And, see you all tomorrow!!!
+
+https://www.youtube.com/watch?v=grij8LmhF6s
+
+UPDATE 12-25-17
+
+Merry Christmas Everyone! Today's Update includes ability to now run Night Slashers via MAME 2003, as well as PC-98 Cores for USB-HOST & Non-USB-HOST (Tremendous thanks to shawnsub for helping me with perimeter tests!). Those of you who have difficulty getting PC-98 going, I will do my best to help you out! SNES9x2010 has speed hack improvement for Starfox 2. Video shows all 3 of these in action!! I also added some more Custom Fonts, including a Mario 64 like one! (Thanks Melthris, BsLeNuL, & fsuarez913!). Genesis Plus GX Updated. Lastly, that "guy" who spent all Xmas Eve trolling me on YouTube, telling me I should stop making videos because I have a speech impediment, and am horrifying to listen to, and am probably grossly obese, etc, etc,, I wish you a very Merry Xmas and an even happier New Year!
+
+For you to all enjoy, is one of his many very nice comments to me:)
+
+"You should avoid using words with S in them. Especially avoid words with multiple Ses. Also, your diaphragm sounds like it is compressed in some way -- something wrong with your gut muscles or perhaps it is compressed in some way -- obesity perhaps. You're absolutely horrifying to hear speaking.?"
+
+Maybe I should just listen to him and just stop sharing my technical ability to help others have fun and enjoy a little time away from reality, hide under a rock and hide my shameful existence away from society?
+
+Anyways, back to the fun stuff:) And, thanks to all who do support me!
+
+For those of you who play the Arcade Cores, feel free to offer your input to help boost the compatibility list at this link (Thanks realcreamstick!)
+
+https://www.reddit.com/r/miniSNESmods/comments/7gqaim/snes_mini_arcade_compatibilty_list/
+
+Video of the 3 new things in action:)
+
+https://www.youtube.com/watch?v=LRJVnPXj_ts
+
+To expect in near future Updates: Dummy's Guide to USB-HOST, including why games won't work, etc! I may possibly be able to get Super Game Boy & Atari ST going. There will be more Ripping Tools, and alternate firmware methods! And, anyone who I have not responded to...keep in mind, I get over 300 messages/emails average, a day. So, it isn't always easy for me to keep up! But, I do my absolute best to respond to and help everyone out!
+
+UPDATE 12-21-17
+
+Today is a truly Magical Update! Thanks to Rhester72 & DanTheMan827, you can now use Custom Firmware Switching Magic! I put together a video showcasing this as well as two other nifty USB-HOST Relative Updates. These are USB-HOST dedicated Cores & converting NTFS & Fat32, etc., Flash & Hard Drives into a more suitable and reliable format for use with NESC/SNESC. You will need to use Hakchi 12-14-17, and can Update it by Flash Kernel, Rebuild Kernel, & Memboot! Many Cores Updated, per usual...including MAME 2003 (Build Fixes; Thanks clienthax & twinaphex!), MAME 2010 (Build Fixes: Thanks orbea & twinaphex!), FBA 2016 (Save State Fixes; Thanks barbudreadmon!), Eighty-One, Genesis Plus GX, Mednafen VB, Mednafen PCE-Fast, Mednafen SGFX, Mednafen NGP, SNES9X, RetroArch (Both Fceumm & Nestopia). I renamed both RetroArchs to keep them from being separate, and to notate which RetroArch Version they are on:) Enjoy Today's magical Update, and here is the video related to the 3 USB-HOST specific enhancements! https://www.youtube.com/watch?v=GL5pDvLoXEI
+
+UPDATE 12-19-17
+
+Unfortunately, RetroArch 1.6.9. Update needed to be reverted back to 1.6.7. due to some unforeseen conflicts with some of the Cores. I tested a half dozen Cores. Of course they ended up being ones that worked without issue! I apologize my friends, and today's Update has fixed RetroArch:) I had 2 other pretty big things to add to the Core Set. But, I need to run a few tests with them, before officially releasing them tomorrow! Yes, they will be released tomorrow, as long as all goes well:) These will be helpful to USB-HOST, as well as running NESC with USB-HOST! For today, you now have Fixed RetroArch, complete with Updated Fceumm:) I also Updated MAME 2010 (Frame Skip Added, Fix for some Crashes related to "Warning" Screens; Thanks wonder199999 & twinaphex!), SNES9x, Mednafen PC-FX, Mednafen PCE-Fast, Mednafen VB, Mednafen WSwan, & Mednafen NGP! As always, I truly appreciate any and all feedback. All of your input helps make my Experimental Core Set all that much better for all of us! Looking forward to adding some more awesome stuff tomorrow! I sincerely apologize for any inconvenience caused by yesterday's release. I am always quick to fix things, once I realize something is amiss! Look for more stuff tomorrow! Til then, enjoy Today's Update!!!
+
+UPDATE 12-18-17
+
+Today's Magnificent Update includes many things. First-off, courtesy of the collaborative efforts of DanTheMan827, Melthris, and myself, you now have ability for Custom Fonts (Fonts Folder)! Pat yourselves on the back. You have all done so extremely well with USB-HOST, that I have now retitled the Advanced Users Folder! I have restructured all HMODS to be within one directory. USB-HOST Specific ones are prefixed, accordingly. MAME 2003 System 32 Variant Fixed! I included 4 more of my personal Ripping Tools; TurboRip, Popstation GUI, PocketISO, and ISO Compressor. I have used them all in previous Videos of mine. RetroArch is Updated to 1.6.9. (Thanks pcm720!!!) I also Updated FCEUMM. Filters for Extreme RetroArch also Updated. As for the Main Core Updates, I have done MANY this time around, including 4DO, FBA 2016, Gambatte, MAME 2003 (SNK Vs Capcom Bootleg & In Your Face now work; Thanks gamez-fan & twinaphex!), MAME 2010 (Thunder Cepter, Shaolin's Road, Final Lap, Shadow Dancer, Chouji Meikyuu Legion, Refresh Rate Fixes, etc.; Thanks wonder199999 & twinaphex!), Mednafen NGP, Mednafen Mednafen PCE-Fast, PC-FX, Mednafen SuperGrafx, Mednafen VB, Mednafen WSwan, mGBA, PCSX ReArmed Neon, SNES9x2010, and VBAM. To expect in next Update/s will be newer revisions to hakchi1!!! I will also be doing video tutorial on USB-HOST for NESC, as well as an overview of my Current Core Set. Enjoy Today's Considerable Update!
+
+UPDATE 12-11-17
+
+Hot Fix Update:) Last minute fantastic Update courtesy of DanTheMan827! In Advanced Users Folder is hakchi2-dantheman827-linked-export-6188a0a.zip With this, you can essentially Extract it to your USB-Drive, doesn't matter where! Do games, folders, per normal! When going to synch, hold down SHIFT key, then choose games folder on USB Drive/HDD. If you get directory not empty error, delete the contents of that directory and/or back it up elsewhere. You can technically export to an empty directory, THEN transfer back to games folder! But, you may end up causing a conflict and getting C3, C7, etc errors. It is best recommended you do it from an Empty Directory Status! This amazing addition will allow you to export games lightning fast, since they are not technically being copied! They are being linked to! Enjoy the amazing Update!
+
+UPDATE 12-11-17
+
+Some Nice Updates Today:) DanTheMan827 did a Font Remount Update to clean things up! Thanks Dan!!! I updated the Auto Convert Script in Ripping Tools Folder to now include ability to batch convert ISO Files for Sega-CD/Turbografx-CD. View the ReadMe! I Updated CheatSheet to include a link to a fantastic USB-HOST Tutorial that my Reddit friend, BsLeNuL, painstakingly put together using my information, as well as a variety of other inputs/feedbacks, etc!! Props to you, BsLeNuL, for your assistance in this! I will communicate with him directly, and use his Tutorial as a Base Point for Future Reference! CheatSheet also has a tidbit added about C2, C3, C7, etc errors. I briefly addressed this in my Videos. But, some may have not realized it. Thanks to SkyCyberguy for his help in Testing! CheatSheet also updated to change priority Format Type for Flash Drive/etc, to Fat32, as highest success rate amongst feedback I have received over the last month!
+
+**Attention: Test results on Save States. Some have reported issues with saves with gpSP. I have perfectly found a median to make MGBA and N64 saves function extremely reliably using Suspend States/In Game Sram Saves for GBA, and ONLY In Game Sram Saves for N64. I cannot fix gpSP saves, without breaking both MGBA and N64! So, if you decide you want to run gpSP, run it with games that you are not concerned with saving! /bin/gpsp AND /bin/mgba for Dual Use:) Lastly, if your shortcut from RetroArch does not properly work with Saves, be sure clovercon or clovercon-usb is installed! If it still gives issues, simply push reset button ON the NESC/SNESC, as that works with saves, properly, each and every time...given they work to begin with! Thanks to bslenul, DocFishopolis, and all else who helped me test this!
+
+As for mainstay Core Updates, I Updated FBA 2016 (eeprom change, audio refactoring; Thanks barbudreadmon!), MAME 2003 (Sound Improvements for Fantasy, Nibbler, Pioneer Balloon, Sasuke and Vanguard, etc; Thanks Curt Coder, twinaphex, gamez-fan!), ProSystem (Atari 7800, Logic Error Fixed; Thanks msheehan79 & twinaphex!), Mr.Boom (Version Update, Keyboard Fix, etc; Thanks frranck. For the Record, Mr. Boom is an amazing Core, and in the event we do network ability, 8 Player Bomberman Clone is untouchable, as far as fun factor! This was what made Bomberman on Sega Saturn, arguably, the best Bomberman Game, ever! I will do a video of this Core in Action!!! I also updated Mednafen PCE-Fast & Supergrafx (Turbo Fixes; Thanks retro-wertz & twinaphex!), PCSX ReArmed Neon (Various Fixes; Thanks hevey & twinaphex!), mGBA (Various Fixes; Thanks endrift & ilovezfs!), GW (Game & Watch; Mouse Fixes, enhancements, bug fixes, etc; Thanks leiradel!!!)
+
+As a final added bonus, due to so many requests, I added the Freeware Game Cave Story for both NXEngine & MegaDrive/Sega Genesis! It is in Extras & Dependencies Folder, along with a proper ReadMe! Enjoy Today's Update! Expect Custom Fonts, NESC USB-HOST Tutorial, etc,, deeper uninstall of Cores Method, etc, in next Updates!
+
+UPDATE 12-7-17
+
+MGBA has better compatibility than gpSP. But, gpSP is faster, overall. Due to feedback, some have been reportedly having issues using newer hakchi1 for USB-HOST. But, they had no issues using slightly older variants. I have personally had no trouble using all of them. But, there could be variables related to USER-END Error, etc. As a result, I am including EVERY version of USB-HOST, just in case someone wants to try on an older version. SNESC works nicely. NESC is a bit trickier! So, keep that in mind. I updated the CheatSheet to briefly list the notable changes with each new Hakchi1
+
+Changes to each version!
+
+hakchi-gui-win32(official)(11-28-17) = Adds ability to install/uninstall
+hmods via flash drive!
+
+hakchi-gui-win32(official)(12-1-17) = Adds ability to use custom splash screen
+
+Otherwise, I updated MAME 2010 (Fixes to Dream Soccer 94 and Fire Barrel; Thanks wonder199999 & twinaphex!), FBA 2016 (Minor Fixes; Thanks barbudreadmon ), Mednafen SuperGrafx (Minor Fixes; Thanks retro-wertz & twinaphex!), and lastly, Updated GW, the truly excellent Core that simulates Handheld Games! Not only has the Core been Updated. But, so have the Games that run on the Core! They are much more accurate representations of the Real Deals, now:) This "older video" I posted, shows them in action! I will do a newer video, when I can!
+
+https://www.youtube.com/watch?v=8xJ9-d1zZIY&t=1s
+
+Enjoy Today's Update! Expect more related to Ripping & Compressing Games in near future Updates!
+
+UPDATE 12-5-17
+
+Fulfilling a few requests today:) First, it has been brought to my attention that GBA Emulation, in general, has not been "fast" enough on the NESC/SNESC. I bring to you, today, a NEW GBA Core, gpsp (Command Line /bin/gba OR /bin/gpsp , which in preliminary testing, runs quite nicely! Check it out! Those of you who download bin+cue, and find the oddity of them being in ECM Files, I included in my Ripping Tools Section, the ability to UNECM the files, per normal! Simply drag the ECM file onto UNECM and it will automatically convert to Bin! I will continue to include more of my personal Ripping Tools, as well as do Videos on how to use them. System 32 Games were broken with other Sega Updates. I included the last working System 32 MAME 2003 Variant in Extras & Dependencies Folder. Otherwise, I updated NP2kai (General Fixes; Thanks Tomohiro Yoshidomi & AZO234 & SpiralCut & r-type!), Mr.Boom (Source Removing; Thanks frranck!) , MAME 2010 (Sound & Improvements for Denjin Makai; Thanks wonder199999 & twinaphex!), and FBA 2016 (Attempt to Fix Gunbird 2 from Freezing; Thanks sergiobenrocha2 & barbudreadmon!) Enjoy Today's Update!!!
+
+**UPDATE 12-4-17
+
+Today is one truly Kickass Update:) You will now have ability to Transfer Saves to and from NAND & USB (Thanks to DanTheMan827!!!). In Advanced Users Folder (Saves). Due to so many requests, I put together a video as well as a nifty script (Extras & Dependencies Folder; Ripping Tools) to auto-convert Sega-CD & Turbografx-CD Games for use on the NESC/SNESC:) This video shows the old way of doing it, as well as my preferred method of doing it, for your perusal!
+
+**SNES Classic - EASY SEGA-CD & TURBOGRAFX-CD:)
+
+https://www.youtube.com/watch?v=3GT_7VcMims
+
+The hard work and patience and perseverance of madmonkey & skogaby, also nets us this excellent Tutorial Guide on HOW to add a Micro-SD Card for use with the SNES Classic!
+
+https://www.reddit.com/r/miniSNESmods/comments/7hdw61/guide_release_how_to_add_a_microsd_card_to_the/
+
+I also Updated MAME 2003 (Knuckle Bash 2 & Williams Sound; Thanks gamez-fan & twinaphex!), RetroArch (Fceumm -Compile Fixes; Thanks bparker06!), VirtualJaguar (makefile targets; Thanks bparker06!), Mr. Boom (general fixes; Thanks frranck!) , Mednafen Supergrafx (aspect ratio & other fixes; Thanks hizzlekizzle, retro-wertz, & twinaphex!), as well as as an Updated dtm Font Overmount NES Bug Fixed Version:) Enjoy Today's Update!
+
+UPDATE 12-2-17
+
+As usual, thanks to madmonkey, DanTheMan827, and Melthris, for their assistance in making my Updates so awesome!
+
+USB-HOST Updated, so that you can now change the Splash Screen. Briefly, within hakchi directory, throw a 1280x720 resolution .png file, named boot.png It will be loaded upon boot-up! Deleting boot.png, will make it revert to original madmonkey knock-knock splash screen:) I also included DanTheMan's amazing Font Overmount, which will help with both NESC/SNESC! Make this path, hakchi/fonts Anything thrown into the fonts folder will be auto-loaded, upon boot! I included 2 sample font sets within Extras & Dependencies Folder, in Fonts Folder! I updated FBA 2016, Mednafen PCE-Fast, Mednafen PC-FX, Mednafen SuperGrafx, Fuse, MAME 2003 (Williams Game Speedhack Fix; thanks gamez-fan & twinaphex), & MAME 2010 (Turbo-Fire Core Option; Thanks wonder199999 & twinaphex!) In order to use USB-HOST on NESC, you will need to make hakchi/saves folder, and have fontfix or dtm_font_overmount installed! Some are having mixed results, due to various factors. I will put together another Video Tutorial, specifically for the NES Classic, soon! Good luck, in the meantime! Here is the video of Splash Screen Change, Font Change, and Inode Index Breaking with 10,000+ Games, in action:) I also briefly show how to change between multiple discs with the PSX Emulator! It is a truly trivial thing:) Updated RetroArch to 1.6.7. Added This Important Note to CheatSheet! It has been brought to my attention by madmonkey, that after Uninstalling with hakchi2, you do NOT need to flash original kernel:) Even if hakchi2 asks to, Just Say No. In any case, Enjoy Today's Update!!!!
+
+**SNES Classic - 10,000+ Game Test (USB-HOST) + Change Splash Screen +Change Fonts
+
+https://www.youtube.com/watch?v=MdKAYUzWiS4**
+
+**Saves will NOT work, if using Inode Break Method depicted in the Video. Stick to Main UI for Important Games, you want to save, for now:)
+
+As a final note, I will get to updating the Source Files, soon!
+
+UPDATE 11-30-17
+
+Thanks to DanTheMan827 and madmonkey, per usual, a tremendously beneficial Update to USB-HOST! There is now a third way to install/uninstall HMODS! This third method also keeps your NESC/SNESC untethered to Hakchi1/2. You will, of course, still need to use hakchi2 if you want to uninstall to stock, and hakchi1 if you want to Update to the latest Revisions! CheatSheet has brief run down of the new transfer method. I also recorded and posted another video showing it in action! Otherwise, I also updated MAME 2003 (Again, more Sega Fixes, along with trackball patches for Cabal, Improved Sample Sounds for Donkey Kong/Donkey Kong Jr., Fire Barrel & FixEight now work. Additionally, I updated MAME 2010 (some improvements to display aspect ratio), GW (button mapping fixes, sound loop corrections, transparency issues), FBA 2016 (Save Bug Fixes for Violent Storm and Metamorphic Force), TGBDual (Fix of G++ Compile error that kept it from working on NESC/SNESC; Now it is properly Updated to current version!), Genesis Plus GX (Various Fixes), Fuse.
+
+I also added a new Core, xrick, which plays a fantastic clone of Rick Dangerous!
+
+Finally, I cleaned up things a bit, and updated Core Info Files, etc!
+
+Here is a video of the Revised Tutorial for USB-HOST, along with the third method of HMOD installs/uninstalls in action:)
+
+**SNES Classic - USB-HOST Revised Tutorial (With NEW HMOD Transfer Method:)
+
+https://www.youtube.com/watch?v=Jt_DprGPCOw&lc=z22dxriglnulxdt4q04t1aokgxlnmtceg0ttdr3e4d2kbk0h00410
+
+Enjoy today's Update:)
+
+UPDATE 11-27-17
+
+Light Gun Support added for NES Games, using USB-HOST!!! You will need to install either of today's RetroArch Variants for 11-25-17, then use one of the two following command lines...
+
+/bin/fceumm OR at end of argument, leave a space, then --retroarch --fceumm
+
+I also Updated MAME 2003 (More Sega Fixes) The USB-HOST Cheat Sheet is Updated to detail another method of installing/uninstalling HMODS using hakchi1, rather than hakchi2:) _KM_CHEATS.7z in Extras & Dependencies, I shortened the paths, to make using in Folder HMOD Structure easier with character limits. I would still recommend not having your hakchi2 directory buried too far! As a final note, I will leave you with a video I just posted showing both Light Gun Games & alternate way of doing HMOD installs/uninstalls!
+
+Alternately, you can use hakchi1, itself to install/uninstall HMODS! This may
+be helpful to those of you who get shutdown errors when trying to do USB-HOST
+Modification. To do this, navigate to the following path...
+
+/mod/hakchi/transfer/hmod
+
+Then, simply copy and paste the HMODS you want installed. It is recommended to
+keep these to 60 Mb or less, per transfer. Delete any that you want uninstalled.
+Rebuild Kernel THEN, Memboot will install/uninstall these.
+
+Enjoy Today's Update!!!
+
+SNES Classic - NES Light Gun Games - USB-HOST!!!
+
+https://www.youtube.com/watch?v=zT-pbHqItfU
+
+UPDATE 11-24-17
+
+Today, you now have the ability to play MP3s!!!!!!!!!!!!!!!!!!!!!!!!!!! You can do this using PocketCDG. It also handles CDG Karaoke+MP3 Combos:) I also got Sharp X68000 Running (px68k)! Now, you can run the awesome Castlevania Game, amongst other Games that were on the System! I updated FBA 2016, Atari 800, and NP2kai. In Advanced Users Folder, there are now two additions, a 7z script fix for USB-HOST, as well as a dedicated clovercon-usb Module, both courtesy of madmonkey!!! Enjoy Today's Update!!!
+
+The MAME 2017 in 11-22-17 was a test file. Unfortunately, due to it being so large, it is not possible to install on the NESC/SNESC. It triggers the invalid kernel size perimeter. I may work more with it, and see about it functioning on USB-HOST, albeit, a different way. But, for now, it is DOA.
+
+UPDATE 11-22-17
+
+Hot Fix to 11-22-17 (Updated Clovercon & Fontfix:)
+
+It has been brought to my attention (Thanks alcuin & madmonkey!) that the tiny7z that was in my Advanced Users Folder for USB-HOST was the incorrect one. The proper one has now replaced it, complete with a ReadMe file crediting the original Author of this amazing Tool:) You can NOW run 7z Games via USB-HOST, given you have proper names (minus Parenthesis and any other odd characters) I thoroughly apologize for accidentally posting the wrong one. Bug Fixes & Updates for USB-HOST have also been merged into hakchi-gui-win32(official), in Advanced Users. These include various bug fixes, repair of games, and simplified overmounting for Games. (Thanks DanTheMan827!!!!!). These changes will also help with Nes Classic more optimally running USB-HOST. If on SNES Classic with USB-HOST, hakchi/saves folder is optional. If on NES Classic with USB-HOST, hakchi/saves folder is required! Otherwise, Storage is mounted RO (You will have no fonts and menu will not start!). Also, Updates to MAME 2003 (NBA Jam Sound Fixes), FBA 2016 (Another Sound Fix for Sol Divide). Enjoy Today's Update:)
+
+UPDATE 11-20-17
+
+Older MAME 2003 is no longer needed to run System 32 Games (Spider-Man, Golden Axe 2, Jurassic Park, Alien 3: The Gun, and so on!). The proper coding changes are now merged into the newer, MAME 2003 11-20-17 Variant (Thanks gamez-fan & twinaphex!) Also, a ton of Sega System 16, etc, Arcade Games have had fixes to them! So, check out games like Out Run, After Burner, Super Hang-On, and so on, to likely see different and better results than you've become accustomed to when using them with MAME 2003 up til this point!!! Enjoy! Also, Updated MGBA, RetroArch (FCEUMM), SNES9x (Save fix for Light Fantasy & Timing Fix for Chou Aniki) Thanks Oggom!, & NP2Kai. Expect Updates for USB-HOST, Fonts, NEO-GEO Revision, and a few other things, over the course of this week:) Lastly, be sure to check out my MSU-1 Tutorial & Test Video:) https://www.youtube.com/watch?v=ZOVwPWEOiUo
+
+UPDATE 11-17-17
+
+USB-HOST Expandable Storage Modification:) Updated proper fontfix.hmod to use, along with tiny7zx-dynamic.hmod, to cover Font Issues, as well as allow ability to run 7z. SNES-Genesis-GBA, etc Games:) The Font Set-Up May change, for the better, in the NEXT Update! I also put together a quick USB-HOST Cheat Sheet, which should be helpful in quickly getting things going! You will also notice a custom method of adding Folders to USB-HOST Storage Device, as well! (Also, thanks to DanTheMan827) Read the Cheat Sheet for info on this method! Otherwise, I updated MAME 2003, BlueMSX, RetroArch (FCEUMM), FBA 2016. I also threw in a few more Shaders into Extreme Filters (crt-bp.glsl, crt-bp-warm.glslp, andcrt-bp-cool.glslp Thanks to bparker06 for passing these my way!!!!!) I am paying attention to any and all feedback about USB-HOST, which again, is the pet-project of madmonkey:) I will do as much Updating and Optimization as I can, to more optimize things, and make it more user-friendly, day by day! There are some very advanced things that can be done with USB-HOST! But, these sorts of things will be gone into more detail about, as time permits! Enjoy Today's Update!!! And, here is a Redux Video, going over a few of these changes:) https://www.youtube.com/watch?v=RAQGbw8oxOw
+
+UPDATE 11-14-17
+
+Thanks to DanTheMan827 for doing some bug fixes (Paths and Loading) to USB-HOST!!! File is named the same, hakchi-gui-win32(official). But, I applied the fixes! You may know him as the one who pioneered the Dual Boot NESC/SNESC Modification! Check out his Github https://github.com/DanTheMan827 , particularly the Repositories Section, for some truly awesome Modifications! Otherwise, I updated MAME 2003, FBA 2016, BlueMSX, VirtualJaguar. And, based on request, threw a 32x only Variant of PicoDrive into the Extras & Dependencies Folder. For my NEXT Update, expect a Revision to NEO-GEO:) And, I will be posting a video on USB-HOST Set-Up, Overview, and in Action by Wed/Thurs! Enjoy today's Core Update!
+
+UPDATE 11-11-17
+
+Fixed Broken MAME 2003 Core, as well as Updated it! Sorry about that:) Updated MGBA, Vecx, Mednafen Virtual Boy, SNES 9X (Resolution Fix for Chrono Trigger, to account for the disorientation when switching from Normal In-Game to Battle Scenes (Thanks retro-wertz & twinaphex)! I also Updated SNES9X 2010. Additionally, I added MrBoom Core! This is a fantastic Dynablaster (BomberMan) Clone! To run it, Install the HMOD, THEN, you can load via NESC/SNESC RetroArch, Load Core Option:) I still plan on doing a video about alternative ways to run this and other embedded Games! I updated the ReadMe for USB-HOST, in Advanced Users Section. For those of you having difficulty using the Official Release, feel free to try out the Prototype (although it is buggier). I will do my best to continually update the ReadMe to make using Official Release as user-friendly as possible! Finally, per request, I included the hakchi2 I personally use, 2.21e Debug Version. Use it if you are having issues with 2.21f. Enjoy today's Update!!!
+
+UPDATE 11-9-17
+
+Today's fascinating news is that Expandable Storage is no longer a fantasy. It is a fully realized reality. You can go into my Extras & Dependencies Folder, within the Advanced Users Portion, view the ReadMe, then proceed from there to truly open up your NESC/SNESC to many more wondrous possibilities!!! Thank you @madmonkey1907, for entrusting such awesomeness to me.
+
+Otherwise, I merged more Bios/Core Set-Ups, to much better streamline the One and Done Install Process for HMODS. Sega-CD, PCE-CD, Sega Saturn, and so on. Only a few remaining Bios leftover, that are better left to manual installs...as you will see in today's release! I cleaned up the ReadMe files for several Cores, added a few more optimal command lines for Cores that run the same type of games, such as MSX, N64, and so on. Lastly, I updated MAME 2003, FBA 2016, PicoDrive, ProSystem (Atari 7800). I would recommend removing previous HMODS from your User Mods folder, and replacing with these, to keep things nice and smooth, transition wise! Be sure to uninstall them, as well! Enjoy today's Update!!!
+
+UPDATE 11-6-17
+
+First-Off, thanks for bearing with me as I have done adjustments to try to better Save Ability for N64/GBA. Again, thanks to @kaosushijin, @NeroSchiz, and @krofinzki! In any case, I have arrived at a potential Median that should work for a majority of Games (some of you may have experienced Manual Save issues with GBA. But, this is now corrected!). Too little incremental time leads to No Save or Corrupt Saves. Too much incremental time leads also leads to No Save or Corrupt Saves. I tested the current adjustment with games like Banjo-Kazooie, Legend of Zelda - Ocarina of Time on N64, and Mother 3 on GBA, etc. Again, manual saves do not work for N64! So, do not use them. In-Game saves do work! If the game is too large (N64 wise, you will need to run it uncompressed, so that in-game saves work! I will see about other adjustments. But, this is pretty stable for now. Most games save, just fine! Those that do not, work with saves, when uncompressed:) This primarily affects N64/GBA! PS1, for example, works...no matter what size the game:) Install the latest RetroArch in today's Core Update to apply this adjusted fix:) Otherwise, I updated Yabause (Sega Saturn), SNES9x & SNES9x2010, MAME 2003 (DJ Boy now works!!!), FBA 2016, and Mednafen Virtual Boy. I addressed the Atari 800 Core and Bios Read issues. You can install JUST the Atari 800 Core, and not worry about configuration file, nor Bios:) I also adapted this to other Cores that have required Bios installs, within reason, of course! You will no longer need to install Bios for PS1, FDS, CPS2, Odyssey, FMSX, etc. The only Bios you will still need to install, will be ones you can see plain, in sight, within this Core Update! Obviously, if you want to run only ColecoVision, using BlueMSX, you do not need the 5 Mb Bios install for MSX Games! It is pretty laid out, and not hard to comprehend what I changed:) Basically, if the Core needs Bios, and you do not see an HMOD for said Bios in this set, they will automatically install with the respective Cores! I will adjust the ReadMe Files in my NEXT Update. Lastly, I also added 8bitdo Beta Firmware. The main thing, for now...was to roll out some of these changes for you all to enjoy! Enjoy today's Update!!!
+
+UPDATE 11-4-17
+
+Updated MAME 2003, SNES9x (minor MSU1 and logging related fixes), Rolled Back ViceX64 Core due to "Invisible" Cursor, Added WIP Hatari Core, which still needs work to function properly in the Mini NES/SNES Environment. In Extras & Dependencies Folder, I added an Atari800 Folder and a temporary method of fixing/running 5200/800 Games, if you have issues. 5200 runs fine on 2.21e. But, it has issues on 2.21f, with reading the Bios for 5200. 800 Does not work on either, but the FTP method fixes that:) This is a WIP, and the Atari 800 compatibility will be increased as I add to the Config File. You can use bios_atari800, rather than bios_atari800_5200, now. Hatari will likely need a similar script-in method, or FTP-Config to fully function. Due to the ever increasing size of the Core/Bios/HMOD Set, I will be separating into 2 different downloads in future Updates. For now, enjoy today's Update:)
+
+UPDATE 11-3-17
+
+Modified the GBA/N64 Save State fix, for a third time. I calculated, roughly...Every 2.5 Mb of a game, in compressed form, seems to need an attribute of 1. So taking the largest N64 Game, at 62.4 Mb, translates to approximately 25. This directly applies to the decompression phase of any pertaining game in the GBA/N64 subsets, particularly to Manual & Sram Saves for GBA, and Sram Saves for N64 (Do not use Manual Saves for N64, as I have already warned!) This fix is not set in stone, yet. Just bear with me, as I test different adjustments til we are all happy! Otherwise, I updated MAME 2003 and Yabause (Sega Saturn). Yabause, by the way, had the incorrect date on it in yesterday's update. Today is the correct date and is also updated! It was brought to my attention that TGBDual was broken. I had to roll the Core back to make it compatible with both NESC/SNESC. It works great, now! I will do another update tomorrow! And, today's good news, Expandable Memory is no longer wishful thinking. MadMonkey has conferred with me on this being fact, and not fiction:) If all goes well, expect an official release in due time:) I can confirm expandable memory works, first-hand, as I tested it out successfully. So, there are great things to come! As a final note, the busybox bug that was addressed and patched in 2.21f, has been found to affect at least one of the Cores from fully functioning. So, if you are unable to properly run Atari 5200 with the Atari800 Core while on 2.21f, I would recommend rolling back to 2.21e, for now:) Enjoy today's Update!
+
+UPDATE 11-2-17
+
+Modified the Save Fix (Personal thanks to @kaosushijin, @NeroSchiz for their absolute patience and devotion to solving this issue! And, of course @krofinzki for bringing it to my attention) to apply to 50Mb+ Games, as well. I can confirm Legend of Zelda: Ocarina of Time can now sram save with this amendment! If I find any more games, size wise, with save issues...I will do my best to adjust accordingly, to compensate for proper saves with them. Install either version of RetroArch dated 11-2-17 from this Update to have this fix applied! And, again, an important reminder, manual saves are not recommended for N64, as they are extremely unreliable. Stick to in-game Sram Saves, please:) Otherwise, Updated ViceX64 (Commodore 64), MAME 2003 (More Working Games, such as Title Fight, Puzz Loop 2, Gunbarich). And, finally, Updated Yabause (Sega Saturn).
+
+UPDATE 11-1-17
+
+Merged fix (Personal thanks to @kaosushijin, @NeroSchiz for their absolute patience and devotion to solving this issue! And, of course @krofinzki for bringing it to my attention) for 32Mb+ GBA Saves (Mother 3, etc!) & 32Mb+ (Banjo-Kazooie, etc!) N64 Sram Saves (Manual N64 Saves are still unreliable, so not recommended to use!) Stick to the in-game Sram Saves! Install either RetroArch from this latest Update to have fixed Saves! Be sure to uninstall your old one first! I also updated FBA 2012.
+
+UPDATE 10-31-17
+
+Added Ability to CHEAT in MAME 2003:)
+
+As shown here:) https://www.youtube.com/watch?v=9CsQ96wcUOI
+
+I also added Support for the Puzzle Game 2048! You can run 2048 a couple different ways. Just use RetroArch from GUI and load Core, and it will play automatically! I will do a video about the other way to run this tomorrow. Enjoy! I will also get more updates to Cores within the next day or two!
+
+UPDATE 10-28-17
+
+Added Very Accurate ColecoVision & MSX Core, BlueMSX, along with the proper Bios dependencies! Otherwise, general Code CleanUp and Auditing, and a few minor fixes:) Enjoy today's Update! Also, fulfilled a few requests, such as making it possible to Edit and Add your own Cheat Codes for Game Genie/Action Replay! _KM_Cheats.7z in Extras & Dependencies Folder. Also, note if you have Game Demo Mode crashing with C8, it is due to a minor conflict with Hakchi 2.21f
+
+UPDATE 10-26-17
+
+Massive Refactoring and Updating of nearly every Core! FBA is now designated as FBA2016, so as to avoid confusion on the difference between FBA & FBA2012, as far as which is newer and which is older! If you previously had issues running games on FBA, things should be much better now with the Updated Code! Neo-Geo Bios configurations also adjusted for this change:)
+
+UPDATE 10-24-17
+
+For those who want to dual use Gambatte & MGBA, I added extra command lines for both, so they can be dual used! /bin/gambatte & /bin/mgba for dual usage:) Major Core Update Incoming Tomorrow:)
+
+UPDATE 10-23-17 - V2
+
+Atari 5200 Support Added (Atari800 Core:)
+
+UPDATE 10-23-17 - V1
+
+Updated SNES9x (Now has support for the newly fan translated Tengai Makyou Zero: Far East of Eden and RTC support for the SPC7110 Chip:) PicoDrive is updated to 1.92!, and now sram saves work! Thanks notaz for the great Code Changes! MAME 2003 with System 32 Support is now in the Extras & Dependencies Folder. Current MAME 2003, with additional support for "More" Games, is in Main Folder now. Hyper Street Fighter II, Metal Slug 4, Windjammers (Yes, finally!), Sengoku 3, King of Fighter 2000, DonPachi, Vasara 2 , and many others now function on MAME 2003! Enjoy the absolutely amazing compatibility update for MAME 2003! Atari Lynx (Handy) was also updated. Final Burn Alpha Updated. Updated the Filters in Extreme RetroArch in Extras & Dependencies Folder. Added 8bitdo firmware that is compatible with both NESC/SNESC. As always, I recommend uninstalling any previous Cores, then deleting from your User Mods folder, and replacing with these! Enjoy today's update!
+
+UPDATE 10-21-17 - V2
+
+Added MAME 2014 Core! It favorably handles 7zip Compression! It is also a little bit of a space drainer, and somewhat cpu intensive. But, it is a good option for certain games that cannot run on MAME 2002/2005/2010. Added NEC PC-98 Core (NP2kai), which is a nice computer with many great games! Updated Info Files. And, lastly, did some refactoring of code. Uninstall RetroArch + any SNES9x Cores, and Install these Updated ones:) Enjoy today's second update! And, have fun with the MAME 2014 Core!
+
+UPDATE 10-21-17 - V1
+
+Updated Cluster's Save State Fix into RetroArch. Saves are no longer 2 Mb! The snapshots are now compressed. Remember, if you do not see save states within Save State Manager, and do not mind ridding of them, you can use Factory Restore Settings from the actual Mini NES/SNES, itself! It will do absolutely no harm to your folders/games. It only wipes out save states and sram saves! I also updated Stella (Atari 2600). And, finally FCEUMM is updated, too! I can confirm SNES9x does, in fact, run BSX-Satellaview Games! But, some of them, such as F-Zero Grand Prix 1-4, require special patches to bypass the intro screens, unfortunately. Enjoy the Update!
+
+UPDATE 10-20-17
+
+Updated ProSystem, Fuse, Game & Watch, MGBA, RetroArch to 1.6.7. With Newer RetroArch, you may need to manually exit RetroArch if Home Button/Reset Shortcut does not function properly! I had to do it once, then was able to use home button after that:). In Core Information there is an option to Delete Cores right from there! I would NOT use this option til it is further tested and deemed safe to use. Hakchi is still the best current way to uninstall Cores. Lastly, I added SNES9x 1.54.1, as well as Dual Core'd it in Dependencies & Extras Folder. Let's hope we can run some MSU-1 & more BSX-Satellaview Games, amongst other things!, with this update:)
+
+UPDATE 10-18-17
+
+Updated FMSX To Main Set, along with ReadMe, and Fceumm in RetroArch. Note: With FMSX Save Core Override must be used to keep selected controller upon reboot
+
+UPDATE 10-17-17
+
+Updated FBA. And, per request, updated FMSX. But, due to unreliability with controller configuration sticking. Controller needs reselected upon every exit to gui and back into an msx/msx game. As a result, it has been placed into Dependencies & Extras Folder, unless further testing deems it otherwise. The other FMSX is inside Main Release, as it is more stable (controller wise), for now.
+
+UPDATE 10-16-17
+
+Updated Genesis Plus GX, FBA 2012, Fceumm in RetroArch, Added FDS Bios Support, Added MAME 2003 Variant which can run KI/KI2 (albeit very slowly!). This Variant is located in the Dependencies & Extras Folder. Due to the MAME 2003 that is in main set, being able to run Sega System 32 Games, the KI/KI2 capable one will not be replacing it. It is just there for testing purposes.
+
+UPDATE 10-15-17
+
+Added Dependencies & Extras Folder, which includes the requested put back of the Dual-Cores for SNES9x 2002/2005/2010.
+
+UPDATE 10-14-17
+
+Retroarch Extreme Filters now work on both the NESC/SNESC! (CRT Filter no longer needed to take advantage of the additional filters! Remember! CRT Filter ONLY works on NESC!)
+
+**UPDATE 10-14-17**  My Cores are basically Official now, and have MadMonkey's Seal of Approval:)  Here ya go!
+
+**KMFDManic Core/Bios/HMOD Update for 10-14-17**
+
+Updated a few Cores, and made a Dependencies Folder to help out with a few things. 
+
+https://github.com/KMFDManic/NESC-SNESC-Modifications/releases
+
+Again, set is fully merged to work with both NESC/SNESC, now:)
+
+**UPDATE 10-13-17** (Extreme Core Update for NESC/SNESC, including RetroArch Fixes for SNESC (c7,c8).  Cores are Merged to work with both NESC/SNES now, as long as you are on hakchi 2.20 and up!  CRT Filter Hack only works on NESC!
+
+**KMFDManic NESC-SNESC Core/Bios/HMOD Update for 10-13-17**
+
+https://github.com/KMFDManic/NESC-SNESC-Modifications/tree/Releases
+
+**UPDATE 10-9-17** (First of All, No Asking for Roms/Isos. This is a set, primarily for "Testing" purposes, of Public Domain, and other such legal Roms/Isos:)
+You may know me as KMFDManic/MDFMKanic, within my 20+ years working with various outlets of Emulation...Updated Core Set for NES/SNESC to reflect changes within the two different environments. My Set of Cores is experimental. I have set it up in a way that I believe most benefits users of both the NESC & SNESC. In this respect, I separated Coding of certain Cores, and designated them to be meant for just NESC or SNESC, as you will see:) I did it this way so that you can use "Older" versions of hakchi2, still! Some of the coding changes make it necessary to be on 2.20. I made it so you can opt for older Hakchis, just in case! Make sure to view the ReadMe! Once I fine-tune things throughout this week, I will make a Pull Request, so that Cluster can deem my set Official, per his request:) Thousands of people have been using my personally refined Core Set over the last year. And, I truly appreciate the support! There are some tremendous differences over the standard Cores, such as Turbografx-CD, Game & Watch, Doom, Quake, Commodore 64, Atari Jaguar, Pokemini, 3DO, "Better" Sega CD implementation, ability to run System 32 Games via MAME 2003!, Dual-Link Ability for GB Games!, Multiple Bios Configurations (I set up Bios for each and every Core, all in their own respective HMODS), Save States working for Atari 2600, and Sram Saves for N64 (Not Manual, though!), Command line optimizations, Better RetroArch Integrations, and, of course, many bug fixes! So, it is definitely about time I let them become Official! Thanks for the support Guys & Gals!!! And, also thanks to those who loved my v1! And, lastly, shout-outs to Cluster, MadMonkey, HoneyLab, soulctcher, eli, pcm720, rhester72, my fellow reddit, gbatemp, and YouTube Supporters! Here is to hoping we get a Mini N64 next year!!!
+
+Note: The SNES 9X Cores that aren't designated for either NESC/SNESC, work on both:)
+
+**Core Set Update for 10-9-17**
+
+https://www.reddit.com/r/miniSNES/comments/73nvd3/the_designated_snesnes_classic_modifications/
+
+**YouTube Video about this particular Set!**
+
+https://www.youtube.com/watch?v=2NaDNqV-qZ4
+
+**UPDATE 10-8-17** (Cluster has asked me to do a pull request to merge all of my Cores with his Github.  I will do some refactoring and clean up and get things set over the weekend.  This means I will be doing another update, too.
+
+**Update 10-7-17** (To Coincide with the Official Release of Hakchi2 2.20, I have gone over and revised my Core/Bios/HMOD Set one more time. This is NOT the same set I uploaded earlier! View the ReadMe:) Enjoy the Set! Have fun with Hakchi2!
+Massively Updated Core Set for NES/SNES Classic 10-7-17 V2
+https://ufile.io/39vqq
+
+**UPDATE 10-6-17:**
+
+**SNES Classic - RetroArch Test!!! Successful!!!**
+
+https://www.youtube.com/watch?v=v-UL3_WNZAE
+
+Sorry for the slightly crooked screen:)  
+
+From the moment I got my SNES Classic, I just had to work towards my Ultimate Goal of getting RetroArch to work, again:) I am glad to have pulled it off. Also, my entire Core Set works with the revised RetroArch! (minus the CRT Filter Hack!) So, I have classified two distinctive installs for RetroArch, one of which is for NESC, the other SNESC! If you do not install the proper one, you will not get the experience you see showcased in this video:) Be sure to watch my other videos of NES Classic, to see what you can all now do on the SNES Classic! Do not use the CRT Filter Hack, as it is meant only to be used for the NES Classic! Enjoy the video:)
+
+**UPDATE 10-3-17** (Next on my agenda throughout this week will be to put together a video showcasing two specific things. One will be running 7zipped Arcade Games! The other will be how to add multiples of the same game! I am also overhauling the entire Sega-CD Set (for those of you aware of v2.5!). I am currently working on to have 2 versions of each respective game. One will be intact with full audio & video. The other will be ripped of unnecessary audio, where applicable. Watch the Snatcher video, linked to in yesterday's update, to get a better feel for how things will be as an end result! And, be sure to try out the two Sega CD Demos also linked to! Currently, Digital Leisure does conversions for the great Dragon's Lair 1, 2, and Space Ace. I have legitimately purchased them on PS3, DVD, and wherever else I possibly could. I have always loved these games! Anyways, thanks so much for the appreciation and tuning into my daily thread! Keep checking back daily for my Updates and other general thoughts! Great things will come! I will make sure of it! When I am close to a revelation, modification wise, I push myself, even on little sleep...just so I can go to sleep knowing I achieved yet another cool as hell thing to share with you all! As always, feel free to ask anything and everything relative to NES Classic Modding via responses in this thread, or private message! I am here to help,
+
+**UPDATE 10-2-17** (Enjoy this video of me getting the Full version of Snatcher for Sega CD, running on the NES Classic!
+
+https://www.youtube.com/watch?v=MWyUhAL9g5Y
+
+**(Info for the video)** Videos and Music intact! I have done this to the entire set of Sega CD games for both PicoDrive & Genesis Plus GX. Genesis Plus GX allows the better compression format. I am glad to be able to streamline things to have more Systems running via Genesis Plus GX.
+You will need Genesis Plus GX Core, latest one from my Core Set! And, install that, along with RetroArch and the necessary Bios for Sega CD. Command line is /bin/segacd
+
+Here are 2 Sega CD Demos to try out, in the meantime:)
+
+https://ufile.io/xf49x
+
+**UPDATE 9-28-17** (Part 3) GOOD LUCK to all of you trying to acquire an SNES Classic!!!  I hope you ALL get one!  I do not want to find out about any of you being disappointed, and being at a loss...as far as obtaining a system!
+
+**UPDATE 9-28-17** (Part 2) u/GenuineSnakeOil has provided a great place for us all to congregate over the last year.  I will not be abandoning ship.  Expect me to still frequent this subreddit with any and all updates, related to my modifications...most specifically, in this stickied Topic!  It will now, of course, include SNES modding!  Consider this a backwards compatible subreddit, to a degree:)  After all, the NES has always been my personal favorite video game system of all time!
+
+**UPDATE 9-28-17** (Part 1) (Those of you who already have experience with modding on the NES Classic, will notice 2 special things about the photo.
+
+https://i.imgur.com/eiAJTT1.png
+
+1.  I have several of the "same" game added via hakchi2. Normally, when adding the same game, it is overwritten by the same game! I never really cared about having the same game twice. But, now, there are reasons to, such as being able to run it on multiple cores without changing command line, hard coded game genie codes (in the case where you want to have children have an easier time at a game, since it may be like training wheels to them, emulation wise!), translations, hacks, and so on. In this case, Double Dragon is one of the best examples of a rom set that very rarely changes! It works in MAME 2003, MAME 2010, FBA, and FBA 2012! One of my next videos will showcase this little trick on adding the same game as many times as one would like to!
+
+2.  I am always trying to better compression techniques. You can see the varying degrees of compression with Metal Slug 4/5, and a test Sega CD game! I have been very partial to MAME 2003 as my primary core. But, enough people have branched out into FBA, to warrant me working more with additions of games for it. FBA has the nice little perk of handling 7zip compression. As far as Sega CD, you can plainly see the nice incremental gains! Yes, we will be running Sega CD & Neo-Geo on the SNES Classic in no time! I have compiled the ability to run this better compression for Sega CD onto the NES Classic, for now:) Snatcher is one game that gets privileged to run in full, untouched, glorious form, on the NES Classic...with this Update! I will release the Core soon:) Additionally, another thing I have put together is the ability to use Cheats with Neo-Geo Games! That will be in a, soon to be released video, as well! I will impart my experience and wisdom to all of you and make the necessary files available to run the Games. And, I will constantly update said files, to better the NES/SNES Classics, as much as possible. But, as far as "getting" the games. That will be on you:)
+
+As of right now, I have compression working for every single system it can handle. Only 4 do not support compression, yet! Sega Saturn, 3DO, ImageViewer, and OST Player. I can potentially get compression going with Sega Saturn and 3DO. But, they run slowwwww! Do not expect great things with either of those! But, every other system, wonders can be done with, as you will see in the very near future! Feel free to check out some of my videos, to see some of the work I have done with the NES Classic. These will all apply to the SNES Classic, soon!
+
+I will also continue to backwards support the NES Classic, period! So, relax, as far as that is concerned:) I will be working with both systems!
+
+**UPDATE 9-27-17** (I will be revising the NEO-GEO Bios Set-Ups, accordingly, to adapt to the ability to use Cheats, etc.  I am trying to make it so it is as easy as possible to swap over from MAME 2003 to FBA to FBA 2012/FBA 2012 NEO-GEO Variant!  Of course, you can all expect a video once I am settled on the final framework:)  And, of course, with the SNES Classic coming out in a day, expect me to jump right onto getting all of my HMODS/Cores/Bioses, etc, as intact as possible...to the SNES Classic!
+
+**UPDATE 9-25-17** ("Abandon all hope ye' who enter here", Goonies!  Even with the SNES Classic coming out this week!  I will not abandon my fellow enthusiasts with the NES Classic!  Just like when I got a PS2, a PS3, and a PS4, I still give love to the previous systems in the chain!  So, be rest assured, I will keep working on bettering our set-ups!  Expect another HMOD Update this week, along with more videos, and v2.5 should be tentatively incoming!  
+
+**PIC of 5000 Game Build, where it currently stands!** 
+
+https://i.imgur.com/1jr8Oec.png
+
+This is to showcase what we will soon be capable of achieving! Clarification can always go a long way:) We will have this greatness on the SNES Classic, soon enough! I have taken 558 Mb Games and crushed them down to 2 Mb proportions, by gutting them of unnecessary music and videos, then stomping them flat to the ground like a goomba, while adding them to the Mini NES!
+Before I post a video of this "Beast" of a set-up in action, sometime this week! Here are a few Technical Specific Details to peruse!
+The normal 300 Mb recommended Hakchi2 limit of 300 Mb does not, in the least bit, apply in this case. I have thoroughly tested this! There is no possible way of getting 5000 Games without being 250 Mb or under! The necessary HMODS to run the 5000 Games take up the "rest" of the needed flash memory! You can still do save states! But, you have to be very careful about going overboard with them! Or, you will land directly into a C8 Error! Of course, you can use Save State Manager to wipe these C8 caused Saves away:) Luckily, save states, for the most part...do not take up much space! Only in cases such as Nintendo 64, do they truly take up more space than one would like, when things become tight...memory wise!
+
+**UPDATE 9-22-17** (Updated RetroArch so that one can easily command line compressed games to run with Nestopia.  Simply change command line (for any games you want to run with nestopia) from /bin/nes TO /bin/nestopia  Here is the temporary link to the updated version, until I post it to my set.
+
+https://ufile.io/d5g2j
+
+**Video of this method in action...**
+
+https://www.youtube.com/watch?v=zLRBtBb50Dg
+
+Otherwise, there will be another update, as usual...within next few days:)  Enjoy the weekend!
+
+**UPDATE 9-18-17** (Another Truly Massive Update:)  over 30 Cores Updated!!!  You can now use Stella (Atari 2600) with Save States!  FBA works much better and more reliably with Save States, as well!  Even though I still love MAME 2003!  If you want save states in a particular game, you can swap over to FBA, and have them!  Keybinding is implemented into the Vice Core (Commodore 64!)  You can use Genesis Lock-On Technology with the HMOD I put together for that within the Bios portion of the Standard HMODS.  RetroArch Updated again (FCEUMM & Nestopia). Lots of Optimizations, Bug Fixes, and so on!  Being that I updated, revised & compiled over 30 Cores, this time around...As per usual, replace the entire set to make sure you are good to go on the most Optimal Set-Ups for any given situation on your Mini NES! Two videos posted, one for Commodore 64 Keybinding & one for Genesis Plus GX Lock-On Technology!  Enjoy!
+
+**UPDATE 9-15-17** (Really cleaned house on several things I wanted to get done in my v2.5 set, over the last couple days.  I will be updating the Core Set, yet again, within the next several days!  Also, be sure to check back for videos I plan on posting soon!  These will include "5000 Game Build", "Is Contra really that hard!?", and "Genesis Lock-On Technology".  I found a very funny glitch involving Rewind in a particular game, that will be in my "Contra" video.  I will also give a few tips on beating Tyson!  I hope to have all 3 videos, and Cores Updated within the next few days!
+
+**UPDATE 9-11-17** (Many changes to the HMOD Set, once again!  Including, multiple Core Updates, as well as command line revisions, Bios adjustments.  And, I updated RetroArch again, particularly Nestopia & FCEUMM.  I completely removed FBA standard CPS2 HMOD, as FBA 2012 CPS2 is technically the same thing!  So, stick to running CPS2 with MAME 2003, MAME 2010, or FBA old or FBA 2012/CPS2:)  Just do not forget to install the Bios for it! 
+ Highlights of THIS Update, include Commodore 64 Update (Vice), that allows keybinding of ALL keyboard keys!  It is completely awesome!  I will do a video on it!  I also put together a (Bios) Genesis Plus GX Lock-On (You can do several really cool tricks with it!) HMOD, which I will do a video about, probably tomorrow, along with the Vice Video:)  Expect some other interesting videos this week, as well!  I am gonna do one about, "Is Contra really that hard!?", then a 5000 Game Build Video!!!  To get 5000 Games, requires very careful planning!  Enjoy the Updates!  As always, I would recommend deleting the old set and replacing with the New!  If you have any questions about general set-up, I am always welcome to private messages!
+
+**UPDATE 9-9-17** (Still working on finishing up the latest Core Updates.  I also was in contact with the guys who work on the Commodore 64 Core, and talked to them about implementing Keybinding!  I am gonna test out the Code tomorrow, and hopefully be able to add it to my next Update.  It may still need a few adjustments before it is completely viable as an option.  So, not sure if I will commit it to my set, just yet!  I am hopeful, though!
+
+**UPDATE 9-7-17** (Did many more Core Set Updates, and will post another revised set, likely Fri/Sat.  I even put together an HMOD, so that you can use the Lock-On ability for Sonic the Hedgehog 1, 2, 3, Game Genie, and Action Replay:)  So, with it disabled, the game loads normally.  With it enabled, you get exactly what happens with the real cartridges, when you attach Sonic 1, 2, 3, Game Genie or Action Replay to Sonic & Knuckles.  Yes, there are roms for Sonic & Knuckles combined with 1, 2, 3.  But, this is still pretty nifty:)   
+
+**UPDATE 9-5-17** (Risk, Othello, Stratego, Mini NES, all have one thing in common.  They take a minute to learn, and a lifetime to master!  I will be doing several changes throughout each week, to better the Core/HMOD/Bios Set-ups.  And, I will post an updated Set to this thread, likely, once per week.  I also achieved a 5000 Game Build, using my revised Cores/HMODS/Bios, and various compression techniques, along with the general strategy required in an RTS or Chess, to pull off a perfect combination of Games+HMODs, without having memory issues, as far as C2, C5, C7, C8!  Expect a video by next week showcasing a 5000 Game Build with Multiple Systems!
+
+**UPDATE 9-2-17** (Tremendous Update to the Core Set, as well as Bios Set.  There are now a multitude of configurations you can use!  Some of the changes I made, are MGBA has 2 different versions (Command lined one to run GBA Games by default.  The second one, can also handle Game Boy & Game Boy Color Games.  So, if you want MGBA ONLY for gba, then install the command line version that is specifically set-up to point only to GBA Games.  This way, you have option to use TGB Dual or Gambatte, if you want, for GB/GBC!  The Dual-Tri Wield SNES 2002/2005/2010 HMODS are updated into the set.  Bios now work like this...You have a Bios Master Module that contains ONLY Required Bios Files, and a Bios Master Module that contains Required & Optional Files.  I did 3 subsets of the Master Bios Module.  One for NEO-GEO OLD (MAME2003/FBA), One for NEO-GEO NEW (MAME2010/FBA2012), One for NON NEO-GEO.  I additionally did ALL bios separately, with Optional=opt or Required=req distinctions.  This way, if you want to run a ridiculously huge game, like I did in THIS video linked to below!, you can do them on a case by case scenario!  There are two versions of RetroArch.  One is (standard), One (extreme) contains the 500+ Filters!  Due to the nature of separating Bios, I renamed Master Bios Modules to Bios Master Modules, to do my best to keep them contained in the same proximity to the other Bios HMODS!  So, in cases where you want to run a crapload of games and HMODS, you can use Bios Master Module (Required or Optional Version).  And, in cases where you want to run 1 or a few large games, you can install just the pertinent Bios you need, separately, if space becomes a pressing issue.  You now have a ton of options Guys & Gals!  Lastly, I updated multiple cores, (PCSX ReARMed, FBA, FBA 2012, and so on!, as well as updated FCEUMM & Nestopia, again, within both RetroArch versions.  Due to the number of changes (well over 100), as per usual...I would recommend getting rid of the Old Cores you got from me, and replacing them with these ones!  Despite some Cores or HMODS appearing to be the same, or identical date.  The reason I do not change the date on certain instances is due to me tracking the date of the Source Code I use for compiling purposes!  So, still replace them all:)  Anyways, here is the link to the Running a Ridiculously Huge Game Video, as well as the link to the Newly Revised Core Set for 9-2-17!!!  Enjoy!
+
+**NES Classic - Let's Run a Ridiculously Huge Game!  Video Link!**
+
+https://www.youtube.com/watch?v=O8_07VbHQuA
+
+**UPDATE 9-1-17** (I am still revising the Core Set.  I am going to put together more options for Bios Set-Ups.  So, you can selectively choose exactly what you need, in the event you want to run an extremely large game.  I will also do a video on this, showing how to get a game of approximation to 300+ Mb running, effectively, on the Mini NES.  I am also going to consolidate GB, GBC, GBA to run all within one Core.  So, there will be 2 GBA Cores.  One will be set, by default, to run just GBA Games, command line wise.  This is so you can still use the 2 GB/GBC Cores (TGB Dual & Gambatte), if you decide to, and have no conflict.  And, the other, will allow you to run GB, GBC, & GBA, if not concerned with running alternative Cores for GB/GBC.  I will still keep my Master Bios Modules for OLD & NEW, as well as NON-NEO.  But, I will also do all Bios contained within these, separately, so you can effectively go bare minimum, if necessary!  This will also apply to RetroArch.  I will keep the Extreme Filter Version, as well as a Standard Version.  You will see how this all adds up, when I post a video on how to run an extremely large game!  In any case, I will try to cover as many bases as I can, within my next Core Update!  
+
+**UPDATE 8-29-17** (Expect more Videos this week going more into detail about different bios configurations, set-ups, and whatnot...particularly concerning NEO-GEO and its intricacies.  I will also do a few gaming videos with recommendations for games to try out!  These are some rare ones that many of you may not even be aware of!  I am still working on getting Sega CD to have better compression.  Hopefully, that pans out!  Lastly, due to the nature of some games that are over 300 Mb and pretty much require being flashed almost solo, at times, I am going to further the Bios HMODS, so that you can have a bare minimum installed for cases like that.  If you are installing a game that is 337 Mb in size, you will want to be as "light" on memory usage as possible!  I will do a video about this!  Every bit of memory counts, when trying to do such "big" games!  But, it is absolutely worth it, for the day or few that you can enjoy them...before moving onto something else to play!  And, there are always Ripped versions, if you want more permanent mainstays!  328 Mb for Rondo of Blood Full, and 8 Mb for it Ripped!  I have many updates to my Core Set, and will likely do a complete Upload/Update by this Thurs/Fri!  
+
+**UPDATE 8-26-17** (Rewind Ability, like on SNES Classic Video Posted!  And, SNES Cores Updated to allow Dual & Tri-Wielding.  Video also posted for this!  
+
+**Links to Videos for Rewind Ability and Dual-Tri Wielding SNES 9X 2002/2005/2010 Cores!**
+
+https://www.reddit.com/r/nesclassicmods/comments/6w6xvj/nes_classic_rewind_feature_like_on_the_snes/
+
+https://www.reddit.com/r/nesclassicmods/comments/6w71ws/nes_classic_dual_triwield_snes_9x_200220052010/
+
+**UPDATE 8-24-17** (Part 2) (First we had the CRT Filter Hack!  Now, we have the ability to play games with a variety of filters, around 500, in fact!  You can do such nifty things as slow motion, pseudo 3d, 2xsal, and many many more!  Enjoy!  Video and post follow the link.
+
+**NES Classic - CRT Filter Hack Update (Slow Motion, and Support for 500 additional Filters!**
+
+https://www.reddit.com/r/nesclassicmods/comments/6vux2j/nes_classic_crt_filter_hack_update_slow_motion/
+
+**UPDATE 8-24-17** (Part 1) (I tested out getting other "Filters" working with the Mini NES, and have been successful. But, much like codec packs, where there is a Light, Regular, and Ultimate Version...I may do 3 RetroArch versions to compensate for this. a Standard, an Extreme, with a @#$load of Filters to tinker with, and a Median version, right smack dab in the middle! I got 2xsai (screen smoothing) working, and it looks nice!  But, expect a variety of graphical options (over 500!) to tinker with, next time I update my Core Set, probably by tomorrow:)  I got it to work with practically every Core I tested it with, after the right initial set-up!  This is fantastic for Cores that do not function well with CRT Filter Hack.  I will release this Updated Retro-Arch, as well as a video!  I also got Slow-Motion working, which will help out on games like Gradius, particularly during some trickier sections, such as boss battles!  This will also be a video:)  
+
+**UPDATE 8-14-17** (I have really gone to town on Revising the Core Set/Bios Module/s.  I would recommend uninstalling and deleting old set/s I posted, completely.  I updated EVERY Core in some way, shape, or form.  To avoid confusion, just eradicate the old set (From User Mods Folder:)  The Revised Set has many different additions, changes, etc!  A few examples are, increased compatibility for Turbografx-CD (Watch the posted video, for info on this, in particular!  GBA Games Sound Fix (Also in the video!), Cave Story In Game Save State Fix Rollback, FBA Sound & Bug Fixes, SNES 2005 Update, Sega Saturn Yabause Update, Complete Overhaul to Master Bios Modules!  Not only did I shrink them down to a much smaller size.  But, I md5 Hash-Checked all pertinent files to make sure they were kosher:)  These are also gone into detail about in the video!  You will get an idea of what is necessary and what is optional!  And, cases where optional Bios can come in handy (Of course, shown in the video, too!)  Links to both the video, as well as the Updated Core Set below this post!!!  As an additional bonus, you get to sit in with me as I rip a Turbografx-CD Game, down to two different, working sizes for the Mini NES, Ripped & Compressed without music, as well as Full & Compressed with music!  Link to that video, as well!  Next up, will be tentatively testing out Minecraft Clone to run on the Mini NES!  Not entirely sure this will be feasible!  But, it is worth a shot!  I got a few other Cores going.  But, as of right now, they have no apparent Controller Support, so they are omitted from this set.  More Updates within next few days!  Enjoy the videos and this Revised Set for now!  
+
+**Video Links:**  
+
+**NES Classic - Bios Overview/Audit & GBA Sound Fix:)**
+
+  I do a Bios Audit/Overview of my personally put together Bios Module!  You also get to see a nifty little trick to fix the sound in some problematic GBA Games!  You also get a little peek at an obscure Turbografx-CD Game, that is the red-headed step-child to Final Fantasy V, in sadomasochist form!!  Unlike Sega CD, PCE-CD Games were generally not censored outside the USA!  Link to the Updated Core/HMOD/Bios Module Set that I compiled below!  Enjoy the video!
+
+https://www.youtube.com/watch?v=T-ZIHAYLMmQ
+
+**NES Classic - Let's Rip a Turbografx-CD Game!**
+
+Sit with me as I go through the process of ripping a Turbografx-CD Game down to two sizes that work on the Mini NES. One, Ripped and Converted & Compressed, with unnecessary audio removed. The other, Full & Converted & Compressed, with the audio untouched!
+
+https://www.youtube.com/watch?v=qglAP7yYkzo
+
+**UPDATE 8-12-17** (Part 2) (I revised my Bios Module Set (New-Neo, Non-Neo, Old-Neo).  I was able to cut it down to about half the size of the previous ones.  I also updated and replaced several files in the set.  One nice bonus to this...Some of you may have noticed that sound was not too good in GBA games.  By injecting the true GBA Bios into my Bios Module, and allowing MGBA, VBA Next, etc, to use it...Sound is "much better".  I also updated Bios for Turbografx-CD, so that there is support for even more games:)  You can read on the status of my Turbografx-CD Project, within the v2.5 Update:)  Finally, I also made sure all pertinent Bios Files md5 hashchecked as they were expected to.  Some Bios are "optional".  But, there are times when these are necessary to use.  I plan on doing a video doing a Bios Overview within the next few days, to better clarify things on this front!  As far as Bios Module and Core Updates...I will post the Newly Updated & Revised Set, within next couple days!  I may include yet another core that hasn't been done on the Mini before, if I have time to test it a little more!
+
+**UPDATE 8-12-17** (Part 1) (Nxengine, the Cave Story Core, I rolled back to 8-5-17 version...due to a "in game save bug".   Updated in Main Set!
+
+**UPDATE 8-10-17** (Part 3) (I succeeded in ripping audio from some games (Turbografx-CD), and compressing the end results:)  So, we will have a choice of Full (Audio Intact) & Ripped (Audio Extracted:)   Example: Dracula X: Rondo of Blood (Ripped & Compressed= 8.6 Mb) & (Full & Compressed= 282 Mb).  This pretty much means, it is reasonably possible to add close to the "FULL" (Minus a few Games that are too large) Turbografx-CD Set.  But, it will take a little work and time:)
+
+**UPDATE 8-10-17** (Part 2) (Updated Entire Core Set, yet again.  There are several changes.  Best to rid of old Core sets, and replace with these.  Anyways, you can now run Turbografx-CD.  Master Bios Module, as well as Mednafen PCE Fast are both configured and updated to run them.  ISO, Bin+CUE will not function, however.  I can send a "test" game, via Private Message only.  I updated Odyssey 2 Core, as well.  But, with this, I also had to update the bios that runs the core.  So, Master Bios Module is covered, on that front.  I rolled back MAME 2003 to get back System 32 Support.  I will Update MAME 2003 again, to a newer version...only if System 32 gets fixed.  For now, we will stay at the one I am posting in the set!  I also got Dinothawr, standalone game core running.  A video will be posted for it:)  It is a fun game to try out.  The dependencies to run Prboom & Dinothawr are in Dependencies Folder.  You can see how to install Dinothawr in the video I am posting shortly.  I will adjust this post to link to it.
+
+**UPDATE 8-10-17** (Part 1) (Turbografx-CD Test Successful!!!  We now have ability to play Turbo-CD Games on the Mini NES!  I will update the core to my set, today:)  I will also post a video.  There are several changes to cores, which I will also give info on.
+
+**UPDATE 8-9-17** (Part 2) (Unfortunately, sometimes when changes are made for the better, other things get broken...or lost in translation.  In this case, MAME 2003 has had several changes over the last 2 weeks.  But, sadly, System 32 Support (Jurassic Park, Spider-Man, Golden Axe: The Revenge of Death Adder) got screwed up with an Update.  So, I am "Rolling Back" the MAME Core.  
+
+**N64 Save States & Micro-Management, Plus FTP Overview!**
+
+  https://www.youtube.com/watch?v=FhNNjpaXbgo
+
+**UPDATE 8-3-17** (Part 2) (Successfully overhauled Core Set.  It's general set-up is now as follows:
+
+**UPDATE 8-2-17** (As of right now, I am adding MAME 2010 Set, which...as mentioned, will be the "in between" from 2003 Set and 2010 Set.  This causes a minor conflict, that I will address in my Set.  NEO-GEO 2003 and NEO-GEO 2010 run off of different sets of Bios.  This means, you only have some specific options.
+
+**UPDATE 8-1-17** (Part 2) (I got N64 Saves working quite reliably, as far as my "earliest" tests are concerned.  Once I am satisfied with my test perimeters, and things pan out well...I will post the updated cores, that will help you guys do manual, as well as sram saves:)  Thus far, I tested a dozen games, with little to no problems, whatsoever:)  I will make a video to explain the process, once this is all said and done.  It is yet one other thing I have noted people have complained about.  I finally got around to playing around with it.  So far, so good:)
+
+**UPDATE 7-24-17** (By request, I did TGB Dual, which is a Game Boy/Game Boy Color Core, that allows for "Dual Link" 2 Player with Games like Tetris.  It is a suitable replacement for Gambatte, if Dual Link is your thing:)  If there are any other Cores you want me to attempt, feel free to let me know.  I will integrate this into my full set, once I am done with a few other Core changes I am making.
+
+
+**UPDATE 7-21-17** (Part 2) (I got Commodore 64 working on the Mini NES:)  Expect the update, along with working Commodore 64 Core, Sun/Mon:)  I am hoping to get Amiga running, too!  But, Commodore 64 is one people have struggled getting to run for quite some time now.  So, I am glad the hurdle has been successfully jumped!  I will post a video, with it in action...along with the updated Core set!  Note, Commodore 64 is a little tricky to set up!  But, I will do my best to help you guys out in my Video!
+
+**UPDATE 7-10-17** (Got REAL Doom & REAL Quake running!  Both Cores (PRBOOM & TYRQUAKE are in my latest Upate Pack.  Also included, is prboom.wad, which is required to run Doom Games.  This file needs to be copied into any directory you install a Doom.Wad file into.  I also updated SNES 2005, MGBA, VECX, and MAME 2010.  And, I included all the original Cores I use for ease of convenience, as well as the whole slew of Cheat Engine HMODS that help one do cheats on the fly.  Video will be posted shortly, with that in action.
+
+**Notable Changes in the latest Core Set include:**
+
+--ability to run Sega CD games within Genesis Plus GX with fantastic compression. I ripped the entire set, minus the few that were larger than 337 Mb, give or take, into my v2.5 set! Many games are full, with untouched audio and videos, as well as compressed for the most optimal use of them on the NES Classic! I will do a video about this, to help you guys and gals along!
+--New variants for NEO-GEO Bios. I merged the unibios into both the old and new sets. I will do a video on how to properly use these cool set-ups, tomorrow! You will be able to use Cheats in NEO-GEO Games!
+
+--I configured RetroArch to handle Nestopia Compression, via command line. If wanting to run a compressed game, via Nestopia...you do not need to use --retroarch --core nestopia Instead, alter the beginning of the command line only, to /bin/nestopia INSTEAD of /bin/nes I did this for FCEUMM, as well. So, to reiterate...if non-compressed, you can stick to --retroarch --fceumm OR --retroarch --core nestopia at the end of the arguments. If compressed, only --retroarch --fceumm works. But, you can change /bin/nes to /bin/nestopia to work compressed, nestopia wise! All in the read-me, of course:) I update all read-me files to reflect the command line changes I have made.
+
+--I did some command line clean-up, to avoid issues when running both FBA & FBA 2012 simultaneously. Using /bin/fba for both, just causes a conflict. You can see in the readme info, within hakchi2, the new command line changes I added. I did this for many systems, not just FBA & FBA 2012. I will continue to do such changes to make it possible to avoid any and all conflicts. Example: You can run FBA with command line /bin/fbaold OR FBA 2012 with command line /bin/fbanew Obviously, this will point out the old & new rom sets! I will be doing a video, as well, related to having the same rom added more than once, within hakchi2! Normally, they get overwritten when adding the same files. I will show you all a little trick to bypass that!

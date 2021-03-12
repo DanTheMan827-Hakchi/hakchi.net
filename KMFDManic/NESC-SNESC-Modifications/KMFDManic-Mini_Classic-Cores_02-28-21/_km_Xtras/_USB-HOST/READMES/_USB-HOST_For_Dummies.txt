@@ -1,0 +1,36 @@
+NOTE: This is mainly for Archive Purposes, at this point:)  Many things have
+changed, USB-HOST wise!  So, take anything you read with a grain of salt!
+
+This will be Updated Regularly to include some Cardinal Tips to follow!
+
+Good Luck Guys & Gals (KMFDManic:)
+
+1.Do not do TOO much at one time!
+
+2.Simplicity is best!
+
+3.Special characters can NOW be used with Hotfix and Current Core Set
+
+4.Do not compress CD Based Games!
+
+5.If Fat32 works, then great! Ext4 also works!
+
+6.SDUFRM
+-Seriously, Don’t U F’ing Remember Me
+
+7.Case Sensitivity Matters!
+
+8.Use a Dummy Folder! (Sram Saves work there!)
+
+9.Do not go over 60 Folders!
+
+10.Can’t Unpack Ramdisk=Flash Original Kernel!
+
+11.transfer folder for HMODS!
+
+12.saves folder for saves!
+
+13.firmware folder for firmware!
+
+14.boot png should be 1280x720
+

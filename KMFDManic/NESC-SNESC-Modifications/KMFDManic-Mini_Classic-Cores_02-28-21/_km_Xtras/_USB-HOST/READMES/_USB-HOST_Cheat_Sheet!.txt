@@ -1,0 +1,161 @@
+NOTE: This is mainly for Archive Purposes, at this point:)  Many things have
+changed, USB-HOST wise!  So, take anything you read with a grain of salt!
+
+**It has been over a few months since USB-HOST has first been introduced!  I truly 
+appreciate all of the feedback that has come my way to make things a much
+better experience for us all!  Those of you completely NEW to USB-HOST, I 
+would suggest watching my videos on it, as well as following this truly
+excellent Guide on Reddit, that my friend BsLeNuL painstakingly put together!
+
+The Guide!
+
+https://www.reddit.com/r/miniSNESmods/comments/7hyd1d/usbhost_guide_step_by_step_installation_guide/
+
+The Video! (Note, you DO not need to flash original kernel, after uninstalling with hakchi2!)
+
+https://www.youtube.com/watch?v=Jt_DprGPCOw&t=260s
+
+Also, another Reddit friend of mine helped test a few things, and here are his results.  
+
+Testing finished and looking real good! Does NOT seem to be the flash drive,
+nor the custom splash screen enabled version of hakchi (both seemingly working
+just fine now), but two other things that I noticed are crucial when setting it all up:
+NEVER add games to hakchi2 other than dragging them on the games list in the program or 
+via the „Add more games“ button there, ONLY delete games by right-clicking an then 
+deleting them in the program‘s games list! NEVER add seperate ID‘d games-folders 
+(CLV-x-xxxx) from other, e.g. previous hakchi2 games libraries to your current one 
+since this might mess up the indexing of your whole library and then lead to C3 and 
+C8 errors, up to the system not booting up but boot-looping instead!
+Whenever you added games to your library the way described above, make name changes,
+box-art changes or command-line changes, always CLOSE hakchi2 and re-open it before 
+syncing to make sure everything is saved and stored properly. When changing folders 
+or moving games between them in the sync menu, always CANCEL & SAVE FOLDER STRUCTURE, 
+then again CLOSE and re-open hakchi2 before actually finally syncing to USB! Otherwise
+changes might not be executed correctly leading to just a fragment of the existing
+folders being displayed and able to be accessed by the SNESC!  I don‘t know if these
+two things have ever been publicly emphasized but it might be worth doing so once more
+- I bet lots of the problems other people are experiencing are related to at least one
+of them. The custom splash screen-enabled version of hakchi does seem to react less
+forgiving to indexing errors and similar stuff than the previous version.
+
+Credit to SkyCyberguy for his Test Results outlined above:)
+
+Now, then, the Original Cheat Sheet.  I apologize for its somewhat convoluted 
+nature!  I will clean it up through-out this upcoming week!  I will better
+streamline quicker video tutorials to get right into the fray of the action, 
+as well!!!  
+
+With no further ado, and much appreciation to you all!, KMFDManic:)
+
+USB-HOST EXPANDABLE STORAGE CHEAT SHEET:
+
+Welcome to the Fantastic Work of madmonkey, originator of hakchi1 & USB-HOST!
+
+First-off, if you want to use folders, I would recommend doing your folder set-up, 
+the way you want it to be.  
+
+Then, uninstall Hakchi2
+
+Next, install the HMODS you want to use, either with Hakchi2, per normal!  There
+is no need to Custom Flash:)  Be sure to include the two following ones
+
+fontfix.hmod (whichever one; Font Set-Up will change in next Update:)
+tiny7zx-dynamic.hmod (This will allow you to run 7zipped Games:)
+
+(Note: If you have issues with either of these hmods, just uninstall them, and use
+simplified character names (No parenthesis, etc., in the file names, themselves...
+whether or not they are compressed/non-compressed.  Internal file names count!
+
+Alternately, you can use hakchi1, itself to install/uninstall HMODS!  This may
+be helpful to those of you who get shutdown errors when trying to do USB-HOST
+Modification.  To do this, navigate to the following path...
+
+/mod/hakchi/transfer/hmod
+
+Then, simply copy and paste the HMODS you want installed.  It is recommended to
+keep these to 60 Mb or less, per transfer.  Delete any that you want uninstalled.
+Rebuild Kernel THEN, Memboot will install/uninstall these.  
+
+There is also, now, a third method of installing/uninstalling HMODS.  You will need
+the latest Official Hakchi1 in my Core Set, dated at least 11-28-17.  To do this
+you will make a folder with following path, hakchi/transfer  You will then copy
+and paste any HMODS that you would like installed!  Powering on the system will
+boot into a secondary splash screen signifying that these are being installed!
+To uninstall ALL HMODS, for now (this will change with alternate method of 
+uninstalling them individually, in a near-future Update!), make the 
+hakchi/transfer folder...then copy the uninstall file from Advanced Users
+folder inside it.  Powering on the system will uninstall any and all HMODS.
+You will then get a shutdown error.  To get back in action, you will need to
+do hakchi/transfer again, and copy and paste madmonkey-modules-3.4.112.hmod
+inside it, along with any additional Cores you want installed!
+
+So, there you have it, 3 different ways of installing, uninstalling HMODS:)  
+All 3 work for me.  But, some may have preference with one over another!
+
+Then, 
+
+WORD ASSOCIATION STEPS: 
+
+Seriously = Stock Kernel
+Don't     = Dump Kernel  
+U         = Unpack Kernel  
+F'ing     = Flash Kernel
+Remember  = Rebuild Kernel
+Me?       = Memboot
+
+GAMEs:
+
+Either copy Game Folders, intact, from GAMES or GAMES_SNES Folders into
+Storage Device, with path hakchi/games OR, open up the Specially Modified
+Version of Hakchi2 (either E or F, which are both included), with Export
+Game Support, Have set to use Folders. Then, hold down SHIFT when clicking 
+synch, to transfer games to location of your choice!
+
+(Huge thanks to DanTheMan827 for this Modification!)
+
+(Note: There are alternate ways to do folders.  But, for now, I would like to
+keep things simplified and streamlined as possible, to avoid confusion!  I will
+follow-up with more on this in future Updates.
+
+SAVES: Path hakchi/saves (case sensitive.  Must be lower-case!)
+
+IE: hakchi/games  hakchi/saves
+
+FOLDERS: 
+
+Use either of DanTheMan827's Custom Hakchi2 Variants, and set-up Folders
+as you'd like.  Hold shift, when synching, to choose location to transfer
+the Games to!  If you get directory not empty when using Custom Folders 
+Variant of Hakchi2, Copy them to an empty directory, THEN to the flash 
+drive:) 
+
+QUICK NOTES:
+
+-After any HMOD installs/uninstalls (using hakchi1/2...use Rebuild Kernel
+, THEN Memboot in hakchi1 Gui
+
+-Originally, Format for the Flash Drive, etc, was in order of Extfat2/3, 
+then Fat32, and lastly NTFS.  From tons and tons of feedback, I am now
+changing this to Fat32, as having the most success among users!  So, take
+that with a grain of salt, and try Fat32, if all else fails!  I will get 
+more into the Fat32 thing, and include tools, in next Update or so:)
+
+-If running with Storage Device disconnected, default Games Should load!
+
+-If you run into any problems, simply use hakchi2 to uninstall Kernel, and
+go back to stock:)
+
+-When installing HMODS, do not go more than 60 Mb worth at a time.  Or, you
+will get an invalid kernel size error.  Do 1+ transfers, if necessary.
+
+-hakchi/saves directory is optional for SNESC; Mandatory for NESC!  
+
+-7z.fix can be used to correct game paths on Storage Device.
+
+-This Cheat Sheet will be adjusted, accordingly, with future changes.
+The main ReadMe will not be updated anymore.  I would prefer you 
+all be able to see the true starting point of it all!
+
+Sincerely,
+
+KMFDManic...

@@ -1,0 +1,17 @@
+With appropriate Controller!  
+
+L2      Show/Hide status
+R2      Sound on/off 
+L       Toggle Joystick Number
+R       Change Mouse Speed 1 to 6 
+SELECT  Toggle Mouse/Joy mode 
+START   Show/Hide Virtual Keyboard 
+A       Joystick Button 1 / Mouse Left Click
+B       Joystick Button 2 / Mouse Right Click 
+X       Not Used
+Y       P-UAE GUI 
+
+Personal thanks to qclart!
+You can refer to his faq in the Extra Notes section for more details on controls:)
+
+https://old.reddit.com/r/miniSNESmods/comments/8dbqv7/guide_playing_amiga_games_on_the_snes_classic/

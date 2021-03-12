@@ -1,0 +1,5 @@
+mountpoint -q "$mountpoint/var/lib/clover/profiles/0" && umount "$mountpoint/var/lib/clover/profiles/0"
+rm -r "$mountpoint/media/hakchi/saves"
+mv "$mountpoint/var/lib/clover/profiles/0" "$mountpoint/media/hakchi/saves"
+mkdir "$mountpoint/var/lib/clover/profiles/0"
+sync

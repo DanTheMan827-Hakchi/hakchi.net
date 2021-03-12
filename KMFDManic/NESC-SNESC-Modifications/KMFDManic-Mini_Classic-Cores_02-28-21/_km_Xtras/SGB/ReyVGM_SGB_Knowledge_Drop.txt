@@ -1,0 +1,59 @@
+I have personally never met anyone who had more insight into the awesomeness, as a whole, that Super Game Boy truly is!  So, 
+enjoy this knowledge dropping SGB ReadMe, courtesy of the great experience in its greatness, none other than ReyVGM!  I will update
+this in future Updates, since he clearly has much to share with us all:)
+
+1) The SGB also has more borders other than that default one (the Super Game Boy 2 has more), and they even animate if you don't touch 
+the controller for a few minutes. I really doubt this is something that could be simulated/emulated without actually emulating the SGB
+device though.
+
+2) If you put a transparent cart GBC game (the ones that are GBC-only) on a mono GB or a SGB, you would get an error message. Some of those
+messages are actually pretty cool: http://www.vgmuseum.com/features/warn
+
+3) If you load, let's say, Metroid 2 on a real Super Game Boy, you'll notice it has a a different default color palette (it uses the 4-G
+palette). But how could that be if Metroid 2 was released 3 years before the SGB even came out? Well, the SGB device actually came with
+predetermined color palettes programmed in for many of Nintendo's own GB games. You can see the list
+here: https://tcrf.net/Notes:Super_Game_Boy#Game_Boy_Internal_Name_Table
+
+Of course, unless you emulate the SGB through BSNES, there will be no way of enabling those color palettes for those old GB games because
+the actual code is not in the games (unlike SGB enhanced games that do have the enhancements in their code). It would have to be simulated.
+
+So, in retroarch's case, if I play Metroid 2 in SGB mode, all I would get is the border, but the game would still be in black and white, 
+but on the real SGB the game would be colored by default.
+
+I know there are some GB emulators that allow you to modify the palette (I know VBA does). So if real SGB emulation is never possible, is
+a way to load custom palettes for GB games through the SGB core a possibility? For example, have the default 1-A palette load for every
+game, but if you load Metroid 2 it would load the 4-G palette.
+
+Contra Alien wars came out after the SGB. It has native SGB support (minus the border). My guess is that the devs probably didn't have time 
+to implement one, or maybe didn't care about it. Zelda Link's Awakening does not have a border, but Link's Awakening DX (the GBC release) 
+does and it is coded into the game.
+
+The SGB itself never had any borders for specific games. The SGB has its own borders that are used when playing games that don't have 
+borders (so, pretty much every game released before the SGB). Any game with custom borders has it coded inside the actual game, which is
+why you can see the borders in regular GB emulators without the need of emulating the real SGB device.
+
+Not sure if you are aware, but there are two types of GBC games: the ones that came out in Black cartridges, and could be played in both
+a mono GB and a Color GB, and some of those also had SGB support with borders and custom color palettes. And there were the Transparent 
+cartridges, those were GBC-only and could not be played on a SGB.
+
+Blaster Master Enemy Below is a black cartridge GBC game. If you play it on a Game Boy, you would get a black & white game. If you play
+it on a Super Game Boy, you would get a border (in the USA/Euro version only) and a limited reddish/orange palette. If you play it on a 
+Game Boy Color, then you get the full color game, but no border because GBC mode does not work on the SGB.
+
+That option emulators have that let you play the GBC game in color with borders on, that option is impossible with a real Super Game Boy.
+
+Just to be clear, any black cartridge GBC game you play on a SGB will play either in black and white mode (if it doesn't have SGB support),
+or it will play with a limited palette and a border (if it has SGB support). The only way to play in full color is with a GBC, and you would 
+never ever get a border that way.
+
+PC emus, at least some versions of VBA, allow you to play the GBC games that have SGB support in full color with the borders showing.
+Mind you, this set up is impossible in a real SGB.
+
+However, I noticed a bug in those VBA versions. Well, I don't know if it's a bug or simply a limitation of doing something the real 
+game/hardware isn't be able to do.
+
+Some games have multiple custom borders, for example, Dragon Quest 1&2. There's a border for the town, for a cave, for a castle, for 
+the overworld, etc. Now, if you enable that option of playing GBC games in Color with the borders enabled, then only the initial custom 
+border will load and it will never switch to the other ones.
+
+So, if you enable this option in retroarch, it's possible you'll encounter the same issue too.

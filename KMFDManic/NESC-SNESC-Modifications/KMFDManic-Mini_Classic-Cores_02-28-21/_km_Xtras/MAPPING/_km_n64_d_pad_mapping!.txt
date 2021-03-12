@@ -1,0 +1,89 @@
+KMFDManic here!
+
+  As of the latest Update, you can use premade mappers that myself, BlackSunshine, and MadFranko008 have 
+put together, to allow mapping of SNES Equivalent controllers, for non-analog, solely D-Pad usage!  But,
+you can essentially do it however you so choose to, as well, per the following, very easy to follow, 
+instructions!  Mappers will be updated in future Releases, for many systems!
+
+  For SNES/NES/MD, you can grab the N64 Mappers HMOD from Hakchi, Modules, KMFD Mod Hub, Xtreme Tab!
+
+  For PSC, it will auto install with the Xtreme Core Injector!  Be sure to install AutoBleem first!
+
+  For PSC, you can also obtain the N64 mappers Installation from PSC Folder, AB, _km_retroarch_xtreme_n64_remaps
+executable, if using other Modifications, such as RetroBoot, etc.  Note, it isn't a true executable!  It is 
+merely a specialized self extraction installer!  It may flag some virus protections due to it being such.  But,
+it is perfectly harmless, and it is done this way to avoid "read only" issues on installation!  Simply point to
+your USB Drive, and let it install!  Note, RetroBoot, and my personalized Injector use the same paths!  So, it
+will work perfectly for both upon installation!  Using it elsewhere, you may run into conflicts, due to incorrect
+paths.  
+
+  Upon installation for SNES/NES/MD/PSC, simply load any given game.  Then, go into RetroArch Settings, Quick Menu,
+Controls, Load Mapper, select from the N64 Xtreme or N64 Ludicrous Folder, whichever mapper applies to your game. 
+N64 Xtreme folder will be applicable to GLupeN64, Parallel, Mupen Cores!  N64 Ludicrous will ONLY apply to the
+LudicrousN64 Xtreme Core!  I used different mapping systems for each, so they are not directly interchangeable!  
+Be sure to use and/or create the mappers using the appropriate Cores to avoid conflicts!
+
+  Stability wise, GLupeN64 is most stable for practical use, followed by Parallel, followed by Mupen, then 
+Mupen Next/Xtreme.  Unfortunately, due to GLES Video Conflicts, you will get glitches in many games, when
+running with Mupen Next/Xtreme!  This may potentially be able to be fixed up in future Releases!  More
+details of the specifics of any given Core for MD/SNES/NES/PSC, N64, or any other system...wise, feel
+free to ask me personally, and/or pay attention to most current Release Notes, my YouTube Videos, etc!
+
+    Now, then, let's get started on Nintendo 64 Mapping for those of you unassociated with how Axis work
+on controllers!  We will do a little bit of association, with video games, to make it as effortless as
+possible!  In any case!:
+
+  There are 4 Axis you will have to contend with, Y-, Y+, X+, X-  These can be quite confusing!  BUT, if you
+look at them another way!  
+
+Y- = Think of the Y as someone standing up, like he is about to jump out of a plane, and go skydiving!
+The - is what platform, at the edge of the plane that he stands on, before he jumps out of said plane!
+
+Y+ = This man is now spiraling out of control, since he didn't quite jump smoothly from the plane!
+The + is him spinning around as he plummets towards the ground!  Luckily, before he hits the ground...
+
+X- = Comes along, this being Simon Belmont, of all people...
+The - is his extended arm, before he throws the X, which is the Boomerang!  
+
+X+ = The Boomerang is now thrown, and spinning as it goes, hence...
+The + is the Boomerang following its path!  Luckily, with the sheer power and force and determination
+of Simon Belmont's Legacy, he has safely stopped the Man who had earlier jumped from the plane, from
+his almost inevitable demise!
+
+The L and R, Z, B and A Buttons are self explanatory, and can be applied at face value.  But, the trickier ones:
+
+These 4 Axis can be applied to 3 places!
+
+D Pad =
+
+Y- = Up
+Y+ = Down
+X- = Left
+X+ = Right
+
+Analog = 
+
+Y- = Up
+Y+ = Down
+X- = Left
+X+ - Right
+
+Yellow C Buttons = 
+
+Y- = C Up
+Y+ = C Down
+X- = C Left
+X+ = C Right
+
+Of course, you can apply the C Buttons to an analog stick, if you so choose to!  You can map these games
+a myriad of different ways!
+
+After you create any given mapper on whichever game, go to RetroArch Settings, Controls, Save Game Mapper!
+This will then be utilized on the Next Load of that specific game!  If you want to delete it, simply use
+the option to Delete Game Mapper!  
+
+PS, be sure to let me know of any games that you see that might benefit Mapping Fix Ups, and I will do
+what I can in future, concurrent Releases, to account for that!  And, I will be doing these Mappers for
+any other Cores that are more convenient for those of you who do not have easy access to analog controllers!
+
+Enjoy, KMFDManic!

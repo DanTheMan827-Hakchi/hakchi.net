@@ -1,0 +1,25 @@
+ATTENTION:)  In order to use the NEW RetroArchs in my Core Set,
+you will need to take the included remote-exec file and OVERWRITE
+the current one in your hakchi2 directory.
+
+1.  CTRL+F
+
+2.  Search for remote exec
+
+3.  Open Containing Directory
+
+4.  Let included one overwrite it
+
+**Then, for anyone with issues running NES/SNES should be back in 
+action!  And, of course, Special Characters will work for USB-HOST!
+
+Directory the remote-exec is in...
+
+hakchi2/mods/mod_hakchi/hakchi/rootfs/bin
+
+Personal thanks to Madmonkey for helping fix this:)
+
+Sincerely, KMFDManic
+
+NOTE: All Hakchi1/Hakchi2 Variants in my 1-28-18 Core Set
+have this hotfix already applied.

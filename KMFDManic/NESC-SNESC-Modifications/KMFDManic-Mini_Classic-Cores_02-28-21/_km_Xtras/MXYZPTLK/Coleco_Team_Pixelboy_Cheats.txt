@@ -1,0 +1,58 @@
+Team Pixelboy
+
+Gulkave : Access a secret menu by pressing UP, UP, DOWN, DOWN, UP, RIGHT, DOWN, LEFT, DOWN, DOWN at the title screen. 
+This menu contains a sound test and also lets you set the difficulty level (normal or hard).
+ 
+Pitfall II Arcade : To get infinite lives in this game, enter 54312 with the keypad at the title screen. 
+Also, you can enable "ghost mode" (i.e. invincibility) by entering the code 89999 at the title screen, but keep in mind that it doesn't work 
+with terrain hazards and mine carts.
+ 
+Girl's Garden : Start playing the game, and at any point you can enter 8675309 (Jenny's phone number!) to unlock access to cheat features! 
+Press the keypad keys to add lives, honey pots, flowers, etc. Take note that a dot appears next to your score to indicate that you are in "cheat mode"... cheater. 
+ 
+Ninja Princess : To access a cheat menu, quickly enter UP, DOWN, UP, UP, DOWN, DOWN, DOWN, UP, UP, DOWN, UP at the title screen. 
+This cheat menu lets you select the starting stage number and also lets you set the number of lives.
+ 
+Quest for the Golden Chalice : Enter 444555 with the keypad at the title screen to unlock Quests 4 and 5. 
+You can also enter the code SQUARE (708273) to turn the Prince into a smiling square for the entire duration of the game. 
+Also, after entering the code 865336 at the title screen, you will be able to teleport directly to any screen at any time during 
+the main game by entering the code 00 to 53. If you're playing Quest 4 or Quest 5, you can also teleport directly to the wizard's current location 
+by entering 99 on the keypad. Finally, you can perform a sound test by entering one of these codes at the title screen: 687421 (Silence), 687422 (Main music), 
+687423 (Victory music), 687424 (Easter Egg music), 687425 (Dungeon music).
+ 
+King's Valley : While playing the game, you can make the hidden doors appear immediately by holding down both fire buttons, holding the joystick down, and pressing 0 
+on the keypad. Now just go trough the door to move on to the next (or previous) level!
+ 
+Module Man : You can access the "deluxe" mode of the game (with more screens) by entering 777111 at the title screen. You can also enter 385 at the title screen 
+to access the debug mode (experiment with the keypad keys while playing to see what you can do in debug mode). Finally, 
+you can play a hidden mini-game by entering 222666 at the title screen.
+ 
+Mecha-8 : Enter 421 at the title screen to activate the debug mode. You can press 3 on the keypad during the game to pass directly to the next level 
+(or to the ending after the last level). You can also press 4 to fast-forward to the boss of the current level.
+ 
+The Stone of Wisdom : During the "CASIO" logo sequence, hold down 1 on the keypad while holding down the right trigger button, and you will become totally 
+immune to damage. Or, still during the "CASIO" logo sequence, hold down 2 on the keypad while holding down the right trigger button to gain the ability to continue 
+after death.
+ 
+Super Pac-Man : Enter 4567 at the title screen to access the secret Classic Pac-Man, which is the MSX port of Pac-Man. While playing Classic Pac-Man, 
+enter 1809 with the keypad to make the 4 blinking power pellets reappear (after Pac-Man has eaten them) or enter 0712 to add one life to your reserves.
+ 
+Mecha-9 : Enter 731 at the title screen to activate the debug mode. Try the keypad keys during the main game to see what they do. 
+ 
+Caverns of Titan : During the main game, you can add a life to your reserves at any time by pressing 1 on Player 1's controller 
+and 2 on Player 2's controller simultaneously. You can also freeze all enemies on the screen by pressing 3 on Player 1's controller 
+and 4 on Player 2's controller simultaneously. Finally, you can skip to the next level by pressing 5 on Player 1's controller 
+and 6 on Player 2's controller simultaneously. IMPORTANT: For any of these cheats to work, you have to hold down the two keypad buttons until 
+the screen briefly flashes, which takes roughly a second. Oh, and you can also continue after game over by pressing 5 on Player 1's controller,
+ but I haven't tested this so I'm not sure exactly when you're supposed to press 5. Perhaps someone can check? 
+ 
+Cold Blood : Move the joystick RIGHT, UP, DOWN and RIGHT at the title screen to make the "EXTRA" option appear. Move the menu cursor next to "EXTRA",
+ and press the trigger button to see some bloopers.
+ 
+Deep Dungeon Adventure : Did you know there's a secret game hidden in your Deep Dungeon Adventure cartridge? To access it, hold down the (5) key on both controllers 
+while turning on (or resetting) your console. Have fun!
+ 
+J.E.T.P.A.C. : Hold the joystick up while turning on the console (or while pushing the reset button) to remove the gravity. 
+Also, you can turn your astronaut into a one-hit-kill wonder (making the game incredibly difficult) by holding the joystick right while booting/rebooting the game.
+ 
+Kaboom! : Get infinite lives by entering this code at the title screen: 84572093
